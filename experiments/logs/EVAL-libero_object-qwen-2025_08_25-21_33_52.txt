@@ -1,9 +1,0 @@
-Task suite: libero_object
-
-Task: pick up the alphabet soup and place it in the basket
-Starting episode 1...
-Caught exception: executing action in terminated episode
-Saved rollout MP4 at path ./rollouts/2025_08_25/2025_08_25-21_33_52--openvla_oft--episode=1--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
-Success: False
-# episodes completed so far: 1
-# successes: 0 (0.0%)

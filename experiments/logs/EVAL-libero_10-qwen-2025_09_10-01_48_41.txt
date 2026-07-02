@@ -1,4 +1,0 @@
-Task suite: libero_10
-
-Task: put both the alphabet soup and the tomato sauce in the basket view 0 0 101 0 0 initstate 0
-Starting episode 1...

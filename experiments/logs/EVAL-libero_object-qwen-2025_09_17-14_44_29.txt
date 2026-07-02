@@ -1,3 +1,0 @@
-Task suite: libero_object
-
-Task: pick up the alphabet soup and place it in the basket add 1
