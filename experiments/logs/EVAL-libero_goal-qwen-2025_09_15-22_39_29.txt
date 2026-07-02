@@ -1,0 +1,3 @@
+Task suite: libero_goal
+
+Task: open the middle drawer of the cabinet add 1

@@ -1,0 +1,41 @@
+Task suite: libero_10
+
+Task: put both the alphabet soup and the tomato sauce in the basket view 0 0 101 0 0 initstate 0
+Starting episode 1...
+Caught exception: module 'torch.compiler' has no attribute 'is_compiling'
+Saved rollout MP4 at path ./rollouts/2025_09_10/2025_09_10-01_06_37--openvla_oft--episode=1--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 1
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0
+
+Task: put both the alphabet soup and the tomato sauce in the basket view 0 0 102 0 0 initstate 0
+Starting episode 1...
+Caught exception: module 'torch.compiler' has no attribute 'is_compiling'
+Saved rollout MP4 at path ./rollouts/2025_09_10/2025_09_10-01_06_37--openvla_oft--episode=2--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 2
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0
+
+Task: put both the alphabet soup and the tomato sauce in the basket view 0 0 103 0 0 initstate 0
+Starting episode 1...
+Caught exception: module 'torch.compiler' has no attribute 'is_compiling'
+Saved rollout MP4 at path ./rollouts/2025_09_10/2025_09_10-01_06_37--openvla_oft--episode=3--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 3
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0
+
+Task: put both the alphabet soup and the tomato sauce in the basket view 0 0 104 0 0 initstate 0
+Starting episode 1...
+Caught exception: module 'torch.compiler' has no attribute 'is_compiling'
+Saved rollout MP4 at path ./rollouts/2025_09_10/2025_09_10-01_06_37--openvla_oft--episode=4--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 4
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0

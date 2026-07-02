@@ -1,0 +1,13 @@
+Task suite: libero_object
+
+Task: 
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_17/2025_09_17-00_36_19--openvla_oft--episode=1--success=True--task=.mp4
+Success: True
+# episodes completed so far: 1
+# successes: 1 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: 
+Starting episode 1...

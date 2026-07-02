@@ -1,0 +1,2284 @@
+Task suite: libero_goal
+
+Task: open the middle drawer of the cabinet view 0 0 101 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=1--success=True--task=open_the_middle_drawer_of_the_cabinet_view_0_0_101.mp4
+Success: True
+# episodes completed so far: 1
+# successes: 1 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: open the middle drawer of the cabinet view 0 0 102 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=2--success=True--task=open_the_middle_drawer_of_the_cabinet_view_0_0_102.mp4
+Success: True
+# episodes completed so far: 2
+# successes: 2 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: open the middle drawer of the cabinet view 0 0 103 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=3--success=True--task=open_the_middle_drawer_of_the_cabinet_view_0_0_103.mp4
+Success: True
+# episodes completed so far: 3
+# successes: 3 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: open the middle drawer of the cabinet view 0 0 104 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=4--success=True--task=open_the_middle_drawer_of_the_cabinet_view_0_0_104.mp4
+Success: True
+# episodes completed so far: 4
+# successes: 4 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: open the middle drawer of the cabinet view 0 0 105 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=5--success=True--task=open_the_middle_drawer_of_the_cabinet_view_0_0_105.mp4
+Success: True
+# episodes completed so far: 5
+# successes: 5 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: open the middle drawer of the cabinet view 0 0 106 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=6--success=True--task=open_the_middle_drawer_of_the_cabinet_view_0_0_106.mp4
+Success: True
+# episodes completed so far: 6
+# successes: 6 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: open the middle drawer of the cabinet view 0 0 107 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=7--success=True--task=open_the_middle_drawer_of_the_cabinet_view_0_0_107.mp4
+Success: True
+# episodes completed so far: 7
+# successes: 7 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: open the middle drawer of the cabinet view 0 0 108 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=8--success=True--task=open_the_middle_drawer_of_the_cabinet_view_0_0_108.mp4
+Success: True
+# episodes completed so far: 8
+# successes: 8 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: open the middle drawer of the cabinet view 0 0 109 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=9--success=True--task=open_the_middle_drawer_of_the_cabinet_view_0_0_109.mp4
+Success: True
+# episodes completed so far: 9
+# successes: 9 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: open the middle drawer of the cabinet view 0 0 110 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=10--success=True--task=open_the_middle_drawer_of_the_cabinet_view_0_0_110.mp4
+Success: True
+# episodes completed so far: 10
+# successes: 10 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: open the middle drawer of the cabinet view 0 0 100 2 2 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=11--success=True--task=open_the_middle_drawer_of_the_cabinet_view_0_0_100.mp4
+Success: True
+# episodes completed so far: 11
+# successes: 11 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: open the middle drawer of the cabinet view 0 0 100 2 4 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=12--success=False--task=open_the_middle_drawer_of_the_cabinet_view_0_0_100.mp4
+Success: False
+# episodes completed so far: 12
+# successes: 11 (91.7%)
+Current task success rate: 0.0
+Current total success rate: 0.9166666666666666
+
+Task: open the middle drawer of the cabinet view 0 0 100 2 6 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=13--success=False--task=open_the_middle_drawer_of_the_cabinet_view_0_0_100.mp4
+Success: False
+# episodes completed so far: 13
+# successes: 11 (84.6%)
+Current task success rate: 0.0
+Current total success rate: 0.8461538461538461
+
+Task: open the middle drawer of the cabinet view 0 0 100 2 8 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=14--success=True--task=open_the_middle_drawer_of_the_cabinet_view_0_0_100.mp4
+Success: True
+# episodes completed so far: 14
+# successes: 12 (85.7%)
+Current task success rate: 1.0
+Current total success rate: 0.8571428571428571
+
+Task: open the middle drawer of the cabinet view 0 0 100 2 10 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=15--success=False--task=open_the_middle_drawer_of_the_cabinet_view_0_0_100.mp4
+Success: False
+# episodes completed so far: 15
+# successes: 12 (80.0%)
+Current task success rate: 0.0
+Current total success rate: 0.8
+
+Task: open the middle drawer of the cabinet view 0 0 100 2 350 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=16--success=False--task=open_the_middle_drawer_of_the_cabinet_view_0_0_100.mp4
+Success: False
+# episodes completed so far: 16
+# successes: 12 (75.0%)
+Current task success rate: 0.0
+Current total success rate: 0.75
+
+Task: open the middle drawer of the cabinet view 0 0 100 2 352 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=17--success=False--task=open_the_middle_drawer_of_the_cabinet_view_0_0_100.mp4
+Success: False
+# episodes completed so far: 17
+# successes: 12 (70.6%)
+Current task success rate: 0.0
+Current total success rate: 0.7058823529411765
+
+Task: open the middle drawer of the cabinet view 0 0 100 2 354 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=18--success=False--task=open_the_middle_drawer_of_the_cabinet_view_0_0_100.mp4
+Success: False
+# episodes completed so far: 18
+# successes: 12 (66.7%)
+Current task success rate: 0.0
+Current total success rate: 0.6666666666666666
+
+Task: open the middle drawer of the cabinet view 0 0 100 2 356 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=19--success=False--task=open_the_middle_drawer_of_the_cabinet_view_0_0_100.mp4
+Success: False
+# episodes completed so far: 19
+# successes: 12 (63.2%)
+Current task success rate: 0.0
+Current total success rate: 0.631578947368421
+
+Task: open the middle drawer of the cabinet view 0 0 100 2 358 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=20--success=True--task=open_the_middle_drawer_of_the_cabinet_view_0_0_100.mp4
+Success: True
+# episodes completed so far: 20
+# successes: 13 (65.0%)
+Current task success rate: 1.0
+Current total success rate: 0.65
+
+Task: open the middle drawer of the cabinet view 1 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=21--success=True--task=open_the_middle_drawer_of_the_cabinet_view_1_0_100.mp4
+Success: True
+# episodes completed so far: 21
+# successes: 14 (66.7%)
+Current task success rate: 1.0
+Current total success rate: 0.6666666666666666
+
+Task: open the middle drawer of the cabinet view 1 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=22--success=False--task=open_the_middle_drawer_of_the_cabinet_view_1_15_10.mp4
+Success: False
+# episodes completed so far: 22
+# successes: 14 (63.6%)
+Current task success rate: 0.0
+Current total success rate: 0.6363636363636364
+
+Task: open the middle drawer of the cabinet view 2 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=23--success=True--task=open_the_middle_drawer_of_the_cabinet_view_2_0_100.mp4
+Success: True
+# episodes completed so far: 23
+# successes: 15 (65.2%)
+Current task success rate: 1.0
+Current total success rate: 0.6521739130434783
+
+Task: open the middle drawer of the cabinet view 2 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=24--success=False--task=open_the_middle_drawer_of_the_cabinet_view_2_15_10.mp4
+Success: False
+# episodes completed so far: 24
+# successes: 15 (62.5%)
+Current task success rate: 0.0
+Current total success rate: 0.625
+
+Task: open the middle drawer of the cabinet view 3 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=25--success=True--task=open_the_middle_drawer_of_the_cabinet_view_3_0_100.mp4
+Success: True
+# episodes completed so far: 25
+# successes: 16 (64.0%)
+Current task success rate: 1.0
+Current total success rate: 0.64
+
+Task: open the middle drawer of the cabinet view 3 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=26--success=False--task=open_the_middle_drawer_of_the_cabinet_view_3_15_10.mp4
+Success: False
+# episodes completed so far: 26
+# successes: 16 (61.5%)
+Current task success rate: 0.0
+Current total success rate: 0.6153846153846154
+
+Task: open the middle drawer of the cabinet view 4 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=27--success=True--task=open_the_middle_drawer_of_the_cabinet_view_4_0_100.mp4
+Success: True
+# episodes completed so far: 27
+# successes: 17 (63.0%)
+Current task success rate: 1.0
+Current total success rate: 0.6296296296296297
+
+Task: open the middle drawer of the cabinet view 4 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=28--success=False--task=open_the_middle_drawer_of_the_cabinet_view_4_15_10.mp4
+Success: False
+# episodes completed so far: 28
+# successes: 17 (60.7%)
+Current task success rate: 0.0
+Current total success rate: 0.6071428571428571
+
+Task: open the middle drawer of the cabinet view 5 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=29--success=True--task=open_the_middle_drawer_of_the_cabinet_view_5_0_100.mp4
+Success: True
+# episodes completed so far: 29
+# successes: 18 (62.1%)
+Current task success rate: 1.0
+Current total success rate: 0.6206896551724138
+
+Task: open the middle drawer of the cabinet view 5 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=30--success=False--task=open_the_middle_drawer_of_the_cabinet_view_5_15_10.mp4
+Success: False
+# episodes completed so far: 30
+# successes: 18 (60.0%)
+Current task success rate: 0.0
+Current total success rate: 0.6
+
+Task: open the middle drawer of the cabinet view 6 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=31--success=False--task=open_the_middle_drawer_of_the_cabinet_view_6_0_100.mp4
+Success: False
+# episodes completed so far: 31
+# successes: 18 (58.1%)
+Current task success rate: 0.0
+Current total success rate: 0.5806451612903226
+
+Task: open the middle drawer of the cabinet view 6 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=32--success=False--task=open_the_middle_drawer_of_the_cabinet_view_6_15_10.mp4
+Success: False
+# episodes completed so far: 32
+# successes: 18 (56.2%)
+Current task success rate: 0.0
+Current total success rate: 0.5625
+
+Task: open the middle drawer of the cabinet view 7 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=33--success=True--task=open_the_middle_drawer_of_the_cabinet_view_7_0_100.mp4
+Success: True
+# episodes completed so far: 33
+# successes: 19 (57.6%)
+Current task success rate: 1.0
+Current total success rate: 0.5757575757575758
+
+Task: open the middle drawer of the cabinet view 7 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=34--success=False--task=open_the_middle_drawer_of_the_cabinet_view_7_15_10.mp4
+Success: False
+# episodes completed so far: 34
+# successes: 19 (55.9%)
+Current task success rate: 0.0
+Current total success rate: 0.5588235294117647
+
+Task: open the middle drawer of the cabinet view 8 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=35--success=True--task=open_the_middle_drawer_of_the_cabinet_view_8_0_100.mp4
+Success: True
+# episodes completed so far: 35
+# successes: 20 (57.1%)
+Current task success rate: 1.0
+Current total success rate: 0.5714285714285714
+
+Task: open the middle drawer of the cabinet view 8 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=36--success=False--task=open_the_middle_drawer_of_the_cabinet_view_8_15_10.mp4
+Success: False
+# episodes completed so far: 36
+# successes: 20 (55.6%)
+Current task success rate: 0.0
+Current total success rate: 0.5555555555555556
+
+Task: open the middle drawer of the cabinet view 9 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=37--success=True--task=open_the_middle_drawer_of_the_cabinet_view_9_0_100.mp4
+Success: True
+# episodes completed so far: 37
+# successes: 21 (56.8%)
+Current task success rate: 1.0
+Current total success rate: 0.5675675675675675
+
+Task: open the middle drawer of the cabinet view 9 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=38--success=False--task=open_the_middle_drawer_of_the_cabinet_view_9_15_10.mp4
+Success: False
+# episodes completed so far: 38
+# successes: 21 (55.3%)
+Current task success rate: 0.0
+Current total success rate: 0.5526315789473685
+
+Task: open the middle drawer of the cabinet view 10 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=39--success=False--task=open_the_middle_drawer_of_the_cabinet_view_10_0_10.mp4
+Success: False
+# episodes completed so far: 39
+# successes: 21 (53.8%)
+Current task success rate: 0.0
+Current total success rate: 0.5384615384615384
+
+Task: open the middle drawer of the cabinet view 10 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=40--success=False--task=open_the_middle_drawer_of_the_cabinet_view_10_15_1.mp4
+Success: False
+# episodes completed so far: 40
+# successes: 21 (52.5%)
+Current task success rate: 0.0
+Current total success rate: 0.525
+
+Task: open the middle drawer of the cabinet view 11 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=41--success=True--task=open_the_middle_drawer_of_the_cabinet_view_11_0_10.mp4
+Success: True
+# episodes completed so far: 41
+# successes: 22 (53.7%)
+Current task success rate: 1.0
+Current total success rate: 0.5365853658536586
+
+Task: open the middle drawer of the cabinet view 11 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=42--success=False--task=open_the_middle_drawer_of_the_cabinet_view_11_15_1.mp4
+Success: False
+# episodes completed so far: 42
+# successes: 22 (52.4%)
+Current task success rate: 0.0
+Current total success rate: 0.5238095238095238
+
+Task: open the middle drawer of the cabinet view 12 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=43--success=True--task=open_the_middle_drawer_of_the_cabinet_view_12_0_10.mp4
+Success: True
+# episodes completed so far: 43
+# successes: 23 (53.5%)
+Current task success rate: 1.0
+Current total success rate: 0.5348837209302325
+
+Task: open the middle drawer of the cabinet view 12 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=44--success=False--task=open_the_middle_drawer_of_the_cabinet_view_12_15_1.mp4
+Success: False
+# episodes completed so far: 44
+# successes: 23 (52.3%)
+Current task success rate: 0.0
+Current total success rate: 0.5227272727272727
+
+Task: open the middle drawer of the cabinet view 13 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=45--success=False--task=open_the_middle_drawer_of_the_cabinet_view_13_0_10.mp4
+Success: False
+# episodes completed so far: 45
+# successes: 23 (51.1%)
+Current task success rate: 0.0
+Current total success rate: 0.5111111111111111
+
+Task: open the middle drawer of the cabinet view 13 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=46--success=False--task=open_the_middle_drawer_of_the_cabinet_view_13_15_1.mp4
+Success: False
+# episodes completed so far: 46
+# successes: 23 (50.0%)
+Current task success rate: 0.0
+Current total success rate: 0.5
+
+Task: open the middle drawer of the cabinet view 14 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=47--success=False--task=open_the_middle_drawer_of_the_cabinet_view_14_0_10.mp4
+Success: False
+# episodes completed so far: 47
+# successes: 23 (48.9%)
+Current task success rate: 0.0
+Current total success rate: 0.48936170212765956
+
+Task: open the middle drawer of the cabinet view 14 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=48--success=False--task=open_the_middle_drawer_of_the_cabinet_view_14_15_1.mp4
+Success: False
+# episodes completed so far: 48
+# successes: 23 (47.9%)
+Current task success rate: 0.0
+Current total success rate: 0.4791666666666667
+
+Task: open the middle drawer of the cabinet view 15 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=49--success=False--task=open_the_middle_drawer_of_the_cabinet_view_15_0_10.mp4
+Success: False
+# episodes completed so far: 49
+# successes: 23 (46.9%)
+Current task success rate: 0.0
+Current total success rate: 0.46938775510204084
+
+Task: open the middle drawer of the cabinet view 15 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=50--success=False--task=open_the_middle_drawer_of_the_cabinet_view_15_15_1.mp4
+Success: False
+# episodes completed so far: 50
+# successes: 23 (46.0%)
+Current task success rate: 0.0
+Current total success rate: 0.46
+
+Task: put the bowl on the stove view 0 0 111 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=51--success=True--task=put_the_bowl_on_the_stove_view_0_0_111_0_0_initsta.mp4
+Success: True
+# episodes completed so far: 51
+# successes: 24 (47.1%)
+Current task success rate: 1.0
+Current total success rate: 0.47058823529411764
+
+Task: put the bowl on the stove view 0 0 112 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=52--success=False--task=put_the_bowl_on_the_stove_view_0_0_112_0_0_initsta.mp4
+Success: False
+# episodes completed so far: 52
+# successes: 24 (46.2%)
+Current task success rate: 0.0
+Current total success rate: 0.46153846153846156
+
+Task: put the bowl on the stove view 0 0 113 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=53--success=True--task=put_the_bowl_on_the_stove_view_0_0_113_0_0_initsta.mp4
+Success: True
+# episodes completed so far: 53
+# successes: 25 (47.2%)
+Current task success rate: 1.0
+Current total success rate: 0.4716981132075472
+
+Task: put the bowl on the stove view 0 0 114 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=54--success=True--task=put_the_bowl_on_the_stove_view_0_0_114_0_0_initsta.mp4
+Success: True
+# episodes completed so far: 54
+# successes: 26 (48.1%)
+Current task success rate: 1.0
+Current total success rate: 0.48148148148148145
+
+Task: put the bowl on the stove view 0 0 115 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=55--success=False--task=put_the_bowl_on_the_stove_view_0_0_115_0_0_initsta.mp4
+Success: False
+# episodes completed so far: 55
+# successes: 26 (47.3%)
+Current task success rate: 0.0
+Current total success rate: 0.4727272727272727
+
+Task: put the bowl on the stove view 0 0 116 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=56--success=False--task=put_the_bowl_on_the_stove_view_0_0_116_0_0_initsta.mp4
+Success: False
+# episodes completed so far: 56
+# successes: 26 (46.4%)
+Current task success rate: 0.0
+Current total success rate: 0.4642857142857143
+
+Task: put the bowl on the stove view 0 0 117 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=57--success=False--task=put_the_bowl_on_the_stove_view_0_0_117_0_0_initsta.mp4
+Success: False
+# episodes completed so far: 57
+# successes: 26 (45.6%)
+Current task success rate: 0.0
+Current total success rate: 0.45614035087719296
+
+Task: put the bowl on the stove view 0 0 118 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=58--success=False--task=put_the_bowl_on_the_stove_view_0_0_118_0_0_initsta.mp4
+Success: False
+# episodes completed so far: 58
+# successes: 26 (44.8%)
+Current task success rate: 0.0
+Current total success rate: 0.4482758620689655
+
+Task: put the bowl on the stove view 0 0 119 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=59--success=False--task=put_the_bowl_on_the_stove_view_0_0_119_0_0_initsta.mp4
+Success: False
+# episodes completed so far: 59
+# successes: 26 (44.1%)
+Current task success rate: 0.0
+Current total success rate: 0.4406779661016949
+
+Task: put the bowl on the stove view 0 0 120 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=60--success=False--task=put_the_bowl_on_the_stove_view_0_0_120_0_0_initsta.mp4
+Success: False
+# episodes completed so far: 60
+# successes: 26 (43.3%)
+Current task success rate: 0.0
+Current total success rate: 0.43333333333333335
+
+Task: put the bowl on the stove view 0 0 100 4 2 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=61--success=True--task=put_the_bowl_on_the_stove_view_0_0_100_4_2_initsta.mp4
+Success: True
+# episodes completed so far: 61
+# successes: 27 (44.3%)
+Current task success rate: 1.0
+Current total success rate: 0.4426229508196721
+
+Task: put the bowl on the stove view 0 0 100 4 4 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=62--success=True--task=put_the_bowl_on_the_stove_view_0_0_100_4_4_initsta.mp4
+Success: True
+# episodes completed so far: 62
+# successes: 28 (45.2%)
+Current task success rate: 1.0
+Current total success rate: 0.45161290322580644
+
+Task: put the bowl on the stove view 0 0 100 4 6 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=63--success=False--task=put_the_bowl_on_the_stove_view_0_0_100_4_6_initsta.mp4
+Success: False
+# episodes completed so far: 63
+# successes: 28 (44.4%)
+Current task success rate: 0.0
+Current total success rate: 0.4444444444444444
+
+Task: put the bowl on the stove view 0 0 100 4 8 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=64--success=True--task=put_the_bowl_on_the_stove_view_0_0_100_4_8_initsta.mp4
+Success: True
+# episodes completed so far: 64
+# successes: 29 (45.3%)
+Current task success rate: 1.0
+Current total success rate: 0.453125
+
+Task: put the bowl on the stove view 0 0 100 4 10 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=65--success=False--task=put_the_bowl_on_the_stove_view_0_0_100_4_10_initst.mp4
+Success: False
+# episodes completed so far: 65
+# successes: 29 (44.6%)
+Current task success rate: 0.0
+Current total success rate: 0.4461538461538462
+
+Task: put the bowl on the stove view 0 0 100 4 350 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=66--success=False--task=put_the_bowl_on_the_stove_view_0_0_100_4_350_inits.mp4
+Success: False
+# episodes completed so far: 66
+# successes: 29 (43.9%)
+Current task success rate: 0.0
+Current total success rate: 0.4393939393939394
+
+Task: put the bowl on the stove view 0 0 100 4 352 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=67--success=False--task=put_the_bowl_on_the_stove_view_0_0_100_4_352_inits.mp4
+Success: False
+# episodes completed so far: 67
+# successes: 29 (43.3%)
+Current task success rate: 0.0
+Current total success rate: 0.43283582089552236
+
+Task: put the bowl on the stove view 0 0 100 4 354 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=68--success=True--task=put_the_bowl_on_the_stove_view_0_0_100_4_354_inits.mp4
+Success: True
+# episodes completed so far: 68
+# successes: 30 (44.1%)
+Current task success rate: 1.0
+Current total success rate: 0.4411764705882353
+
+Task: put the bowl on the stove view 0 0 100 4 356 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=69--success=False--task=put_the_bowl_on_the_stove_view_0_0_100_4_356_inits.mp4
+Success: False
+# episodes completed so far: 69
+# successes: 30 (43.5%)
+Current task success rate: 0.0
+Current total success rate: 0.43478260869565216
+
+Task: put the bowl on the stove view 0 0 100 4 358 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=70--success=True--task=put_the_bowl_on_the_stove_view_0_0_100_4_358_inits.mp4
+Success: True
+# episodes completed so far: 70
+# successes: 31 (44.3%)
+Current task success rate: 1.0
+Current total success rate: 0.44285714285714284
+
+Task: put the bowl on the stove view 16 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=71--success=False--task=put_the_bowl_on_the_stove_view_16_0_100_0_0_initst.mp4
+Success: False
+# episodes completed so far: 71
+# successes: 31 (43.7%)
+Current task success rate: 0.0
+Current total success rate: 0.43661971830985913
+
+Task: put the bowl on the stove view 16 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=72--success=False--task=put_the_bowl_on_the_stove_view_16_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 72
+# successes: 31 (43.1%)
+Current task success rate: 0.0
+Current total success rate: 0.4305555555555556
+
+Task: put the bowl on the stove view 17 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=73--success=False--task=put_the_bowl_on_the_stove_view_17_0_100_0_0_initst.mp4
+Success: False
+# episodes completed so far: 73
+# successes: 31 (42.5%)
+Current task success rate: 0.0
+Current total success rate: 0.4246575342465753
+
+Task: put the bowl on the stove view 17 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=74--success=False--task=put_the_bowl_on_the_stove_view_17_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 74
+# successes: 31 (41.9%)
+Current task success rate: 0.0
+Current total success rate: 0.4189189189189189
+
+Task: put the bowl on the stove view 18 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=75--success=False--task=put_the_bowl_on_the_stove_view_18_0_100_0_0_initst.mp4
+Success: False
+# episodes completed so far: 75
+# successes: 31 (41.3%)
+Current task success rate: 0.0
+Current total success rate: 0.41333333333333333
+
+Task: put the bowl on the stove view 18 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=76--success=False--task=put_the_bowl_on_the_stove_view_18_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 76
+# successes: 31 (40.8%)
+Current task success rate: 0.0
+Current total success rate: 0.40789473684210525
+
+Task: put the bowl on the stove view 19 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=77--success=False--task=put_the_bowl_on_the_stove_view_19_0_100_0_0_initst.mp4
+Success: False
+# episodes completed so far: 77
+# successes: 31 (40.3%)
+Current task success rate: 0.0
+Current total success rate: 0.4025974025974026
+
+Task: put the bowl on the stove view 19 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=78--success=False--task=put_the_bowl_on_the_stove_view_19_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 78
+# successes: 31 (39.7%)
+Current task success rate: 0.0
+Current total success rate: 0.3974358974358974
+
+Task: put the bowl on the stove view 20 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=79--success=True--task=put_the_bowl_on_the_stove_view_20_0_100_0_0_initst.mp4
+Success: True
+# episodes completed so far: 79
+# successes: 32 (40.5%)
+Current task success rate: 1.0
+Current total success rate: 0.4050632911392405
+
+Task: put the bowl on the stove view 20 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=80--success=False--task=put_the_bowl_on_the_stove_view_20_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 80
+# successes: 32 (40.0%)
+Current task success rate: 0.0
+Current total success rate: 0.4
+
+Task: put the bowl on the stove view 21 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=81--success=False--task=put_the_bowl_on_the_stove_view_21_0_100_0_0_initst.mp4
+Success: False
+# episodes completed so far: 81
+# successes: 32 (39.5%)
+Current task success rate: 0.0
+Current total success rate: 0.3950617283950617
+
+Task: put the bowl on the stove view 21 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=82--success=False--task=put_the_bowl_on_the_stove_view_21_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 82
+# successes: 32 (39.0%)
+Current task success rate: 0.0
+Current total success rate: 0.3902439024390244
+
+Task: put the bowl on the stove view 22 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=83--success=False--task=put_the_bowl_on_the_stove_view_22_0_100_0_0_initst.mp4
+Success: False
+# episodes completed so far: 83
+# successes: 32 (38.6%)
+Current task success rate: 0.0
+Current total success rate: 0.3855421686746988
+
+Task: put the bowl on the stove view 22 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=84--success=False--task=put_the_bowl_on_the_stove_view_22_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 84
+# successes: 32 (38.1%)
+Current task success rate: 0.0
+Current total success rate: 0.38095238095238093
+
+Task: put the bowl on the stove view 23 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=85--success=False--task=put_the_bowl_on_the_stove_view_23_0_100_0_0_initst.mp4
+Success: False
+# episodes completed so far: 85
+# successes: 32 (37.6%)
+Current task success rate: 0.0
+Current total success rate: 0.3764705882352941
+
+Task: put the bowl on the stove view 23 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=86--success=False--task=put_the_bowl_on_the_stove_view_23_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 86
+# successes: 32 (37.2%)
+Current task success rate: 0.0
+Current total success rate: 0.37209302325581395
+
+Task: put the bowl on the stove view 24 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=87--success=False--task=put_the_bowl_on_the_stove_view_24_0_100_0_0_initst.mp4
+Success: False
+# episodes completed so far: 87
+# successes: 32 (36.8%)
+Current task success rate: 0.0
+Current total success rate: 0.367816091954023
+
+Task: put the bowl on the stove view 24 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=88--success=False--task=put_the_bowl_on_the_stove_view_24_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 88
+# successes: 32 (36.4%)
+Current task success rate: 0.0
+Current total success rate: 0.36363636363636365
+
+Task: put the bowl on the stove view 25 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=89--success=False--task=put_the_bowl_on_the_stove_view_25_0_100_0_0_initst.mp4
+Success: False
+# episodes completed so far: 89
+# successes: 32 (36.0%)
+Current task success rate: 0.0
+Current total success rate: 0.3595505617977528
+
+Task: put the bowl on the stove view 25 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=90--success=False--task=put_the_bowl_on_the_stove_view_25_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 90
+# successes: 32 (35.6%)
+Current task success rate: 0.0
+Current total success rate: 0.35555555555555557
+
+Task: put the bowl on the stove view 26 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=91--success=False--task=put_the_bowl_on_the_stove_view_26_0_100_0_0_initst.mp4
+Success: False
+# episodes completed so far: 91
+# successes: 32 (35.2%)
+Current task success rate: 0.0
+Current total success rate: 0.3516483516483517
+
+Task: put the bowl on the stove view 26 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=92--success=False--task=put_the_bowl_on_the_stove_view_26_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 92
+# successes: 32 (34.8%)
+Current task success rate: 0.0
+Current total success rate: 0.34782608695652173
+
+Task: put the bowl on the stove view 27 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=93--success=False--task=put_the_bowl_on_the_stove_view_27_0_100_0_0_initst.mp4
+Success: False
+# episodes completed so far: 93
+# successes: 32 (34.4%)
+Current task success rate: 0.0
+Current total success rate: 0.34408602150537637
+
+Task: put the bowl on the stove view 27 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=94--success=False--task=put_the_bowl_on_the_stove_view_27_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 94
+# successes: 32 (34.0%)
+Current task success rate: 0.0
+Current total success rate: 0.3404255319148936
+
+Task: put the bowl on the stove view 28 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=95--success=False--task=put_the_bowl_on_the_stove_view_28_0_100_0_0_initst.mp4
+Success: False
+# episodes completed so far: 95
+# successes: 32 (33.7%)
+Current task success rate: 0.0
+Current total success rate: 0.3368421052631579
+
+Task: put the bowl on the stove view 28 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=96--success=False--task=put_the_bowl_on_the_stove_view_28_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 96
+# successes: 32 (33.3%)
+Current task success rate: 0.0
+Current total success rate: 0.3333333333333333
+
+Task: put the bowl on the stove view 29 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=97--success=True--task=put_the_bowl_on_the_stove_view_29_0_100_0_0_initst.mp4
+Success: True
+# episodes completed so far: 97
+# successes: 33 (34.0%)
+Current task success rate: 1.0
+Current total success rate: 0.3402061855670103
+
+Task: put the bowl on the stove view 29 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=98--success=False--task=put_the_bowl_on_the_stove_view_29_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 98
+# successes: 33 (33.7%)
+Current task success rate: 0.0
+Current total success rate: 0.336734693877551
+
+Task: put the bowl on the stove view 30 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=99--success=False--task=put_the_bowl_on_the_stove_view_30_0_100_0_0_initst.mp4
+Success: False
+# episodes completed so far: 99
+# successes: 33 (33.3%)
+Current task success rate: 0.0
+Current total success rate: 0.3333333333333333
+
+Task: put the bowl on the stove view 30 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=100--success=False--task=put_the_bowl_on_the_stove_view_30_15_100_0_0_inits.mp4
+Success: False
+# episodes completed so far: 100
+# successes: 33 (33.0%)
+Current task success rate: 0.0
+Current total success rate: 0.33
+
+Task: put the wine bottle on top of the cabinet view 0 0 121 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=101--success=True--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: True
+# episodes completed so far: 101
+# successes: 34 (33.7%)
+Current task success rate: 1.0
+Current total success rate: 0.33663366336633666
+
+Task: put the wine bottle on top of the cabinet view 0 0 122 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=102--success=True--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: True
+# episodes completed so far: 102
+# successes: 35 (34.3%)
+Current task success rate: 1.0
+Current total success rate: 0.3431372549019608
+
+Task: put the wine bottle on top of the cabinet view 0 0 123 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=103--success=True--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: True
+# episodes completed so far: 103
+# successes: 36 (35.0%)
+Current task success rate: 1.0
+Current total success rate: 0.34951456310679613
+
+Task: put the wine bottle on top of the cabinet view 0 0 124 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=104--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 104
+# successes: 36 (34.6%)
+Current task success rate: 0.0
+Current total success rate: 0.34615384615384615
+
+Task: put the wine bottle on top of the cabinet view 0 0 125 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=105--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 105
+# successes: 36 (34.3%)
+Current task success rate: 0.0
+Current total success rate: 0.34285714285714286
+
+Task: put the wine bottle on top of the cabinet view 0 0 126 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=106--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 106
+# successes: 36 (34.0%)
+Current task success rate: 0.0
+Current total success rate: 0.33962264150943394
+
+Task: put the wine bottle on top of the cabinet view 0 0 127 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=107--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 107
+# successes: 36 (33.6%)
+Current task success rate: 0.0
+Current total success rate: 0.3364485981308411
+
+Task: put the wine bottle on top of the cabinet view 0 0 128 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=108--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 108
+# successes: 36 (33.3%)
+Current task success rate: 0.0
+Current total success rate: 0.3333333333333333
+
+Task: put the wine bottle on top of the cabinet view 0 0 129 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=109--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 109
+# successes: 36 (33.0%)
+Current task success rate: 0.0
+Current total success rate: 0.3302752293577982
+
+Task: put the wine bottle on top of the cabinet view 0 0 130 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=110--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 110
+# successes: 36 (32.7%)
+Current task success rate: 0.0
+Current total success rate: 0.32727272727272727
+
+Task: put the wine bottle on top of the cabinet view 0 0 100 6 2 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=111--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 111
+# successes: 36 (32.4%)
+Current task success rate: 0.0
+Current total success rate: 0.32432432432432434
+
+Task: put the wine bottle on top of the cabinet view 0 0 100 6 4 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=112--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 112
+# successes: 36 (32.1%)
+Current task success rate: 0.0
+Current total success rate: 0.32142857142857145
+
+Task: put the wine bottle on top of the cabinet view 0 0 100 6 6 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=113--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 113
+# successes: 36 (31.9%)
+Current task success rate: 0.0
+Current total success rate: 0.3185840707964602
+
+Task: put the wine bottle on top of the cabinet view 0 0 100 6 8 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=114--success=True--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: True
+# episodes completed so far: 114
+# successes: 37 (32.5%)
+Current task success rate: 1.0
+Current total success rate: 0.32456140350877194
+
+Task: put the wine bottle on top of the cabinet view 0 0 100 6 10 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=115--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 115
+# successes: 37 (32.2%)
+Current task success rate: 0.0
+Current total success rate: 0.3217391304347826
+
+Task: put the wine bottle on top of the cabinet view 0 0 100 6 350 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=116--success=True--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: True
+# episodes completed so far: 116
+# successes: 38 (32.8%)
+Current task success rate: 1.0
+Current total success rate: 0.3275862068965517
+
+Task: put the wine bottle on top of the cabinet view 0 0 100 6 352 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=117--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 117
+# successes: 38 (32.5%)
+Current task success rate: 0.0
+Current total success rate: 0.3247863247863248
+
+Task: put the wine bottle on top of the cabinet view 0 0 100 6 354 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=118--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 118
+# successes: 38 (32.2%)
+Current task success rate: 0.0
+Current total success rate: 0.3220338983050847
+
+Task: put the wine bottle on top of the cabinet view 0 0 100 6 356 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=119--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 119
+# successes: 38 (31.9%)
+Current task success rate: 0.0
+Current total success rate: 0.31932773109243695
+
+Task: put the wine bottle on top of the cabinet view 0 0 100 6 358 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=120--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_0_0.mp4
+Success: False
+# episodes completed so far: 120
+# successes: 38 (31.7%)
+Current task success rate: 0.0
+Current total success rate: 0.31666666666666665
+
+Task: put the wine bottle on top of the cabinet view 31 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=121--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_31_.mp4
+Success: False
+# episodes completed so far: 121
+# successes: 38 (31.4%)
+Current task success rate: 0.0
+Current total success rate: 0.3140495867768595
+
+Task: put the wine bottle on top of the cabinet view 31 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=122--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_31_.mp4
+Success: False
+# episodes completed so far: 122
+# successes: 38 (31.1%)
+Current task success rate: 0.0
+Current total success rate: 0.3114754098360656
+
+Task: put the wine bottle on top of the cabinet view 32 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=123--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_32_.mp4
+Success: False
+# episodes completed so far: 123
+# successes: 38 (30.9%)
+Current task success rate: 0.0
+Current total success rate: 0.3089430894308943
+
+Task: put the wine bottle on top of the cabinet view 32 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=124--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_32_.mp4
+Success: False
+# episodes completed so far: 124
+# successes: 38 (30.6%)
+Current task success rate: 0.0
+Current total success rate: 0.3064516129032258
+
+Task: put the wine bottle on top of the cabinet view 33 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=125--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_33_.mp4
+Success: False
+# episodes completed so far: 125
+# successes: 38 (30.4%)
+Current task success rate: 0.0
+Current total success rate: 0.304
+
+Task: put the wine bottle on top of the cabinet view 33 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=126--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_33_.mp4
+Success: False
+# episodes completed so far: 126
+# successes: 38 (30.2%)
+Current task success rate: 0.0
+Current total success rate: 0.30158730158730157
+
+Task: put the wine bottle on top of the cabinet view 34 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=127--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_34_.mp4
+Success: False
+# episodes completed so far: 127
+# successes: 38 (29.9%)
+Current task success rate: 0.0
+Current total success rate: 0.2992125984251969
+
+Task: put the wine bottle on top of the cabinet view 34 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=128--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_34_.mp4
+Success: False
+# episodes completed so far: 128
+# successes: 38 (29.7%)
+Current task success rate: 0.0
+Current total success rate: 0.296875
+
+Task: put the wine bottle on top of the cabinet view 35 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=129--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_35_.mp4
+Success: False
+# episodes completed so far: 129
+# successes: 38 (29.5%)
+Current task success rate: 0.0
+Current total success rate: 0.29457364341085274
+
+Task: put the wine bottle on top of the cabinet view 35 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=130--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_35_.mp4
+Success: False
+# episodes completed so far: 130
+# successes: 38 (29.2%)
+Current task success rate: 0.0
+Current total success rate: 0.2923076923076923
+
+Task: put the wine bottle on top of the cabinet view 36 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=131--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_36_.mp4
+Success: False
+# episodes completed so far: 131
+# successes: 38 (29.0%)
+Current task success rate: 0.0
+Current total success rate: 0.2900763358778626
+
+Task: put the wine bottle on top of the cabinet view 36 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=132--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_36_.mp4
+Success: False
+# episodes completed so far: 132
+# successes: 38 (28.8%)
+Current task success rate: 0.0
+Current total success rate: 0.2878787878787879
+
+Task: put the wine bottle on top of the cabinet view 37 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=133--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_37_.mp4
+Success: False
+# episodes completed so far: 133
+# successes: 38 (28.6%)
+Current task success rate: 0.0
+Current total success rate: 0.2857142857142857
+
+Task: put the wine bottle on top of the cabinet view 37 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=134--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_37_.mp4
+Success: False
+# episodes completed so far: 134
+# successes: 38 (28.4%)
+Current task success rate: 0.0
+Current total success rate: 0.2835820895522388
+
+Task: put the wine bottle on top of the cabinet view 38 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=135--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_38_.mp4
+Success: False
+# episodes completed so far: 135
+# successes: 38 (28.1%)
+Current task success rate: 0.0
+Current total success rate: 0.2814814814814815
+
+Task: put the wine bottle on top of the cabinet view 38 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=136--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_38_.mp4
+Success: False
+# episodes completed so far: 136
+# successes: 38 (27.9%)
+Current task success rate: 0.0
+Current total success rate: 0.27941176470588236
+
+Task: put the wine bottle on top of the cabinet view 39 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=137--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_39_.mp4
+Success: False
+# episodes completed so far: 137
+# successes: 38 (27.7%)
+Current task success rate: 0.0
+Current total success rate: 0.2773722627737226
+
+Task: put the wine bottle on top of the cabinet view 39 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=138--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_39_.mp4
+Success: False
+# episodes completed so far: 138
+# successes: 38 (27.5%)
+Current task success rate: 0.0
+Current total success rate: 0.2753623188405797
+
+Task: put the wine bottle on top of the cabinet view 40 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=139--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_40_.mp4
+Success: False
+# episodes completed so far: 139
+# successes: 38 (27.3%)
+Current task success rate: 0.0
+Current total success rate: 0.2733812949640288
+
+Task: put the wine bottle on top of the cabinet view 40 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=140--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_40_.mp4
+Success: False
+# episodes completed so far: 140
+# successes: 38 (27.1%)
+Current task success rate: 0.0
+Current total success rate: 0.2714285714285714
+
+Task: put the wine bottle on top of the cabinet view 41 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=141--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_41_.mp4
+Success: False
+# episodes completed so far: 141
+# successes: 38 (27.0%)
+Current task success rate: 0.0
+Current total success rate: 0.2695035460992908
+
+Task: put the wine bottle on top of the cabinet view 41 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=142--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_41_.mp4
+Success: False
+# episodes completed so far: 142
+# successes: 38 (26.8%)
+Current task success rate: 0.0
+Current total success rate: 0.2676056338028169
+
+Task: put the wine bottle on top of the cabinet view 42 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=143--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_42_.mp4
+Success: False
+# episodes completed so far: 143
+# successes: 38 (26.6%)
+Current task success rate: 0.0
+Current total success rate: 0.26573426573426573
+
+Task: put the wine bottle on top of the cabinet view 42 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=144--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_42_.mp4
+Success: False
+# episodes completed so far: 144
+# successes: 38 (26.4%)
+Current task success rate: 0.0
+Current total success rate: 0.2638888888888889
+
+Task: put the wine bottle on top of the cabinet view 43 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=145--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_43_.mp4
+Success: False
+# episodes completed so far: 145
+# successes: 38 (26.2%)
+Current task success rate: 0.0
+Current total success rate: 0.2620689655172414
+
+Task: put the wine bottle on top of the cabinet view 43 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=146--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_43_.mp4
+Success: False
+# episodes completed so far: 146
+# successes: 38 (26.0%)
+Current task success rate: 0.0
+Current total success rate: 0.2602739726027397
+
+Task: put the wine bottle on top of the cabinet view 44 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=147--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_44_.mp4
+Success: False
+# episodes completed so far: 147
+# successes: 38 (25.9%)
+Current task success rate: 0.0
+Current total success rate: 0.2585034013605442
+
+Task: put the wine bottle on top of the cabinet view 44 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=148--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_44_.mp4
+Success: False
+# episodes completed so far: 148
+# successes: 38 (25.7%)
+Current task success rate: 0.0
+Current total success rate: 0.25675675675675674
+
+Task: put the wine bottle on top of the cabinet view 45 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=149--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_45_.mp4
+Success: False
+# episodes completed so far: 149
+# successes: 38 (25.5%)
+Current task success rate: 0.0
+Current total success rate: 0.2550335570469799
+
+Task: put the wine bottle on top of the cabinet view 45 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=150--success=False--task=put_the_wine_bottle_on_top_of_the_cabinet_view_45_.mp4
+Success: False
+# episodes completed so far: 150
+# successes: 38 (25.3%)
+Current task success rate: 0.0
+Current total success rate: 0.25333333333333335
+
+Task: open the top drawer and put the bowl inside view 0 0 131 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=151--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 151
+# successes: 38 (25.2%)
+Current task success rate: 0.0
+Current total success rate: 0.25165562913907286
+
+Task: open the top drawer and put the bowl inside view 0 0 132 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=152--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 152
+# successes: 38 (25.0%)
+Current task success rate: 0.0
+Current total success rate: 0.25
+
+Task: open the top drawer and put the bowl inside view 0 0 133 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=153--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 153
+# successes: 38 (24.8%)
+Current task success rate: 0.0
+Current total success rate: 0.24836601307189543
+
+Task: open the top drawer and put the bowl inside view 0 0 134 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=154--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 154
+# successes: 38 (24.7%)
+Current task success rate: 0.0
+Current total success rate: 0.24675324675324675
+
+Task: open the top drawer and put the bowl inside view 0 0 135 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=155--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 155
+# successes: 38 (24.5%)
+Current task success rate: 0.0
+Current total success rate: 0.24516129032258063
+
+Task: open the top drawer and put the bowl inside view 0 0 136 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=156--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 156
+# successes: 38 (24.4%)
+Current task success rate: 0.0
+Current total success rate: 0.24358974358974358
+
+Task: open the top drawer and put the bowl inside view 0 0 137 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=157--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 157
+# successes: 38 (24.2%)
+Current task success rate: 0.0
+Current total success rate: 0.24203821656050956
+
+Task: open the top drawer and put the bowl inside view 0 0 138 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=158--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 158
+# successes: 38 (24.1%)
+Current task success rate: 0.0
+Current total success rate: 0.24050632911392406
+
+Task: open the top drawer and put the bowl inside view 0 0 139 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=159--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 159
+# successes: 38 (23.9%)
+Current task success rate: 0.0
+Current total success rate: 0.2389937106918239
+
+Task: open the top drawer and put the bowl inside view 0 0 140 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=160--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 160
+# successes: 38 (23.8%)
+Current task success rate: 0.0
+Current total success rate: 0.2375
+
+Task: open the top drawer and put the bowl inside view 0 0 100 8 2 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=161--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 161
+# successes: 38 (23.6%)
+Current task success rate: 0.0
+Current total success rate: 0.2360248447204969
+
+Task: open the top drawer and put the bowl inside view 0 0 100 8 4 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=162--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 162
+# successes: 38 (23.5%)
+Current task success rate: 0.0
+Current total success rate: 0.2345679012345679
+
+Task: open the top drawer and put the bowl inside view 0 0 100 8 6 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=163--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 163
+# successes: 38 (23.3%)
+Current task success rate: 0.0
+Current total success rate: 0.2331288343558282
+
+Task: open the top drawer and put the bowl inside view 0 0 100 8 8 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=164--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 164
+# successes: 38 (23.2%)
+Current task success rate: 0.0
+Current total success rate: 0.23170731707317074
+
+Task: open the top drawer and put the bowl inside view 0 0 100 8 10 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=165--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 165
+# successes: 38 (23.0%)
+Current task success rate: 0.0
+Current total success rate: 0.23030303030303031
+
+Task: open the top drawer and put the bowl inside view 0 0 100 8 350 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=166--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 166
+# successes: 38 (22.9%)
+Current task success rate: 0.0
+Current total success rate: 0.2289156626506024
+
+Task: open the top drawer and put the bowl inside view 0 0 100 8 352 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=167--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 167
+# successes: 38 (22.8%)
+Current task success rate: 0.0
+Current total success rate: 0.2275449101796407
+
+Task: open the top drawer and put the bowl inside view 0 0 100 8 354 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=168--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 168
+# successes: 38 (22.6%)
+Current task success rate: 0.0
+Current total success rate: 0.2261904761904762
+
+Task: open the top drawer and put the bowl inside view 0 0 100 8 356 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=169--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 169
+# successes: 38 (22.5%)
+Current task success rate: 0.0
+Current total success rate: 0.22485207100591717
+
+Task: open the top drawer and put the bowl inside view 0 0 100 8 358 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=170--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_0.mp4
+Success: False
+# episodes completed so far: 170
+# successes: 38 (22.4%)
+Current task success rate: 0.0
+Current total success rate: 0.2235294117647059
+
+Task: open the top drawer and put the bowl inside view 46 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=171--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_4.mp4
+Success: False
+# episodes completed so far: 171
+# successes: 38 (22.2%)
+Current task success rate: 0.0
+Current total success rate: 0.2222222222222222
+
+Task: open the top drawer and put the bowl inside view 46 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=172--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_4.mp4
+Success: False
+# episodes completed so far: 172
+# successes: 38 (22.1%)
+Current task success rate: 0.0
+Current total success rate: 0.22093023255813954
+
+Task: open the top drawer and put the bowl inside view 47 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=173--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_4.mp4
+Success: False
+# episodes completed so far: 173
+# successes: 38 (22.0%)
+Current task success rate: 0.0
+Current total success rate: 0.21965317919075145
+
+Task: open the top drawer and put the bowl inside view 47 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=174--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_4.mp4
+Success: False
+# episodes completed so far: 174
+# successes: 38 (21.8%)
+Current task success rate: 0.0
+Current total success rate: 0.21839080459770116
+
+Task: open the top drawer and put the bowl inside view 48 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=175--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_4.mp4
+Success: False
+# episodes completed so far: 175
+# successes: 38 (21.7%)
+Current task success rate: 0.0
+Current total success rate: 0.21714285714285714
+
+Task: open the top drawer and put the bowl inside view 48 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=176--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_4.mp4
+Success: False
+# episodes completed so far: 176
+# successes: 38 (21.6%)
+Current task success rate: 0.0
+Current total success rate: 0.2159090909090909
+
+Task: open the top drawer and put the bowl inside view 49 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=177--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_4.mp4
+Success: False
+# episodes completed so far: 177
+# successes: 38 (21.5%)
+Current task success rate: 0.0
+Current total success rate: 0.21468926553672316
+
+Task: open the top drawer and put the bowl inside view 49 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=178--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_4.mp4
+Success: False
+# episodes completed so far: 178
+# successes: 38 (21.3%)
+Current task success rate: 0.0
+Current total success rate: 0.21348314606741572
+
+Task: open the top drawer and put the bowl inside view 50 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=179--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 179
+# successes: 38 (21.2%)
+Current task success rate: 0.0
+Current total success rate: 0.2122905027932961
+
+Task: open the top drawer and put the bowl inside view 50 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=180--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 180
+# successes: 38 (21.1%)
+Current task success rate: 0.0
+Current total success rate: 0.2111111111111111
+
+Task: open the top drawer and put the bowl inside view 51 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=181--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 181
+# successes: 38 (21.0%)
+Current task success rate: 0.0
+Current total success rate: 0.20994475138121546
+
+Task: open the top drawer and put the bowl inside view 51 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=182--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 182
+# successes: 38 (20.9%)
+Current task success rate: 0.0
+Current total success rate: 0.2087912087912088
+
+Task: open the top drawer and put the bowl inside view 52 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=183--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 183
+# successes: 38 (20.8%)
+Current task success rate: 0.0
+Current total success rate: 0.20765027322404372
+
+Task: open the top drawer and put the bowl inside view 52 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=184--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 184
+# successes: 38 (20.7%)
+Current task success rate: 0.0
+Current total success rate: 0.20652173913043478
+
+Task: open the top drawer and put the bowl inside view 53 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=185--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 185
+# successes: 38 (20.5%)
+Current task success rate: 0.0
+Current total success rate: 0.20540540540540542
+
+Task: open the top drawer and put the bowl inside view 53 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=186--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 186
+# successes: 38 (20.4%)
+Current task success rate: 0.0
+Current total success rate: 0.20430107526881722
+
+Task: open the top drawer and put the bowl inside view 54 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=187--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 187
+# successes: 38 (20.3%)
+Current task success rate: 0.0
+Current total success rate: 0.20320855614973263
+
+Task: open the top drawer and put the bowl inside view 54 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=188--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 188
+# successes: 38 (20.2%)
+Current task success rate: 0.0
+Current total success rate: 0.20212765957446807
+
+Task: open the top drawer and put the bowl inside view 55 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=189--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 189
+# successes: 38 (20.1%)
+Current task success rate: 0.0
+Current total success rate: 0.20105820105820105
+
+Task: open the top drawer and put the bowl inside view 55 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=190--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 190
+# successes: 38 (20.0%)
+Current task success rate: 0.0
+Current total success rate: 0.2
+
+Task: open the top drawer and put the bowl inside view 56 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=191--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 191
+# successes: 38 (19.9%)
+Current task success rate: 0.0
+Current total success rate: 0.19895287958115182
+
+Task: open the top drawer and put the bowl inside view 56 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=192--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 192
+# successes: 38 (19.8%)
+Current task success rate: 0.0
+Current total success rate: 0.19791666666666666
+
+Task: open the top drawer and put the bowl inside view 57 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=193--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 193
+# successes: 38 (19.7%)
+Current task success rate: 0.0
+Current total success rate: 0.19689119170984457
+
+Task: open the top drawer and put the bowl inside view 57 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=194--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 194
+# successes: 38 (19.6%)
+Current task success rate: 0.0
+Current total success rate: 0.1958762886597938
+
+Task: open the top drawer and put the bowl inside view 58 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=195--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 195
+# successes: 38 (19.5%)
+Current task success rate: 0.0
+Current total success rate: 0.19487179487179487
+
+Task: open the top drawer and put the bowl inside view 58 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=196--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 196
+# successes: 38 (19.4%)
+Current task success rate: 0.0
+Current total success rate: 0.19387755102040816
+
+Task: open the top drawer and put the bowl inside view 59 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=197--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 197
+# successes: 38 (19.3%)
+Current task success rate: 0.0
+Current total success rate: 0.19289340101522842
+
+Task: open the top drawer and put the bowl inside view 59 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=198--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_5.mp4
+Success: False
+# episodes completed so far: 198
+# successes: 38 (19.2%)
+Current task success rate: 0.0
+Current total success rate: 0.1919191919191919
+
+Task: open the top drawer and put the bowl inside view 60 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=199--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_6.mp4
+Success: False
+# episodes completed so far: 199
+# successes: 38 (19.1%)
+Current task success rate: 0.0
+Current total success rate: 0.19095477386934673
+
+Task: open the top drawer and put the bowl inside view 60 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=200--success=False--task=open_the_top_drawer_and_put_the_bowl_inside_view_6.mp4
+Success: False
+# episodes completed so far: 200
+# successes: 38 (19.0%)
+Current task success rate: 0.0
+Current total success rate: 0.19
+
+Task: put the bowl on top of the cabinet view 0 0 141 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=201--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_141_0_.mp4
+Success: False
+# episodes completed so far: 201
+# successes: 38 (18.9%)
+Current task success rate: 0.0
+Current total success rate: 0.1890547263681592
+
+Task: put the bowl on top of the cabinet view 0 0 142 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=202--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_142_0_.mp4
+Success: False
+# episodes completed so far: 202
+# successes: 38 (18.8%)
+Current task success rate: 0.0
+Current total success rate: 0.18811881188118812
+
+Task: put the bowl on top of the cabinet view 0 0 143 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=203--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_143_0_.mp4
+Success: False
+# episodes completed so far: 203
+# successes: 38 (18.7%)
+Current task success rate: 0.0
+Current total success rate: 0.18719211822660098
+
+Task: put the bowl on top of the cabinet view 0 0 144 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=204--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_144_0_.mp4
+Success: False
+# episodes completed so far: 204
+# successes: 38 (18.6%)
+Current task success rate: 0.0
+Current total success rate: 0.18627450980392157
+
+Task: put the bowl on top of the cabinet view 0 0 145 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=205--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_145_0_.mp4
+Success: False
+# episodes completed so far: 205
+# successes: 38 (18.5%)
+Current task success rate: 0.0
+Current total success rate: 0.18536585365853658
+
+Task: put the bowl on top of the cabinet view 0 0 146 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=206--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_146_0_.mp4
+Success: False
+# episodes completed so far: 206
+# successes: 38 (18.4%)
+Current task success rate: 0.0
+Current total success rate: 0.18446601941747573
+
+Task: put the bowl on top of the cabinet view 0 0 147 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=207--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_147_0_.mp4
+Success: False
+# episodes completed so far: 207
+# successes: 38 (18.4%)
+Current task success rate: 0.0
+Current total success rate: 0.18357487922705315
+
+Task: put the bowl on top of the cabinet view 0 0 148 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=208--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_148_0_.mp4
+Success: False
+# episodes completed so far: 208
+# successes: 38 (18.3%)
+Current task success rate: 0.0
+Current total success rate: 0.18269230769230768
+
+Task: put the bowl on top of the cabinet view 0 0 149 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=209--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_149_0_.mp4
+Success: False
+# episodes completed so far: 209
+# successes: 38 (18.2%)
+Current task success rate: 0.0
+Current total success rate: 0.18181818181818182
+
+Task: put the bowl on top of the cabinet view 0 0 150 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=210--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_150_0_.mp4
+Success: False
+# episodes completed so far: 210
+# successes: 38 (18.1%)
+Current task success rate: 0.0
+Current total success rate: 0.18095238095238095
+
+Task: put the bowl on top of the cabinet view 0 0 100 10 2 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=211--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_100_10.mp4
+Success: False
+# episodes completed so far: 211
+# successes: 38 (18.0%)
+Current task success rate: 0.0
+Current total success rate: 0.18009478672985782
+
+Task: put the bowl on top of the cabinet view 0 0 100 10 4 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=212--success=True--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_100_10.mp4
+Success: True
+# episodes completed so far: 212
+# successes: 39 (18.4%)
+Current task success rate: 1.0
+Current total success rate: 0.18396226415094338
+
+Task: put the bowl on top of the cabinet view 0 0 100 10 6 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=213--success=True--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_100_10.mp4
+Success: True
+# episodes completed so far: 213
+# successes: 40 (18.8%)
+Current task success rate: 1.0
+Current total success rate: 0.18779342723004694
+
+Task: put the bowl on top of the cabinet view 0 0 100 10 8 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=214--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_100_10.mp4
+Success: False
+# episodes completed so far: 214
+# successes: 40 (18.7%)
+Current task success rate: 0.0
+Current total success rate: 0.18691588785046728
+
+Task: put the bowl on top of the cabinet view 0 0 100 10 10 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=215--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_100_10.mp4
+Success: False
+# episodes completed so far: 215
+# successes: 40 (18.6%)
+Current task success rate: 0.0
+Current total success rate: 0.18604651162790697
+
+Task: put the bowl on top of the cabinet view 0 0 100 10 350 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=216--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_100_10.mp4
+Success: False
+# episodes completed so far: 216
+# successes: 40 (18.5%)
+Current task success rate: 0.0
+Current total success rate: 0.18518518518518517
+
+Task: put the bowl on top of the cabinet view 0 0 100 10 352 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=217--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_100_10.mp4
+Success: False
+# episodes completed so far: 217
+# successes: 40 (18.4%)
+Current task success rate: 0.0
+Current total success rate: 0.18433179723502305
+
+Task: put the bowl on top of the cabinet view 0 0 100 10 354 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=218--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_100_10.mp4
+Success: False
+# episodes completed so far: 218
+# successes: 40 (18.3%)
+Current task success rate: 0.0
+Current total success rate: 0.1834862385321101
+
+Task: put the bowl on top of the cabinet view 0 0 100 10 356 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=219--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_100_10.mp4
+Success: False
+# episodes completed so far: 219
+# successes: 40 (18.3%)
+Current task success rate: 0.0
+Current total success rate: 0.182648401826484
+
+Task: put the bowl on top of the cabinet view 0 0 100 10 358 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=220--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_0_0_100_10.mp4
+Success: False
+# episodes completed so far: 220
+# successes: 40 (18.2%)
+Current task success rate: 0.0
+Current total success rate: 0.18181818181818182
+
+Task: put the bowl on top of the cabinet view 61 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=221--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_61_0_100_0.mp4
+Success: False
+# episodes completed so far: 221
+# successes: 40 (18.1%)
+Current task success rate: 0.0
+Current total success rate: 0.18099547511312217
+
+Task: put the bowl on top of the cabinet view 61 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=222--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_61_15_100_.mp4
+Success: False
+# episodes completed so far: 222
+# successes: 40 (18.0%)
+Current task success rate: 0.0
+Current total success rate: 0.18018018018018017
+
+Task: put the bowl on top of the cabinet view 62 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=223--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_62_0_100_0.mp4
+Success: False
+# episodes completed so far: 223
+# successes: 40 (17.9%)
+Current task success rate: 0.0
+Current total success rate: 0.17937219730941703
+
+Task: put the bowl on top of the cabinet view 62 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=224--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_62_15_100_.mp4
+Success: False
+# episodes completed so far: 224
+# successes: 40 (17.9%)
+Current task success rate: 0.0
+Current total success rate: 0.17857142857142858
+
+Task: put the bowl on top of the cabinet view 63 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=225--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_63_0_100_0.mp4
+Success: False
+# episodes completed so far: 225
+# successes: 40 (17.8%)
+Current task success rate: 0.0
+Current total success rate: 0.17777777777777778
+
+Task: put the bowl on top of the cabinet view 63 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=226--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_63_15_100_.mp4
+Success: False
+# episodes completed so far: 226
+# successes: 40 (17.7%)
+Current task success rate: 0.0
+Current total success rate: 0.17699115044247787
+
+Task: put the bowl on top of the cabinet view 64 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=227--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_64_0_100_0.mp4
+Success: False
+# episodes completed so far: 227
+# successes: 40 (17.6%)
+Current task success rate: 0.0
+Current total success rate: 0.1762114537444934
+
+Task: put the bowl on top of the cabinet view 64 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=228--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_64_15_100_.mp4
+Success: False
+# episodes completed so far: 228
+# successes: 40 (17.5%)
+Current task success rate: 0.0
+Current total success rate: 0.17543859649122806
+
+Task: put the bowl on top of the cabinet view 65 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=229--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_65_0_100_0.mp4
+Success: False
+# episodes completed so far: 229
+# successes: 40 (17.5%)
+Current task success rate: 0.0
+Current total success rate: 0.17467248908296942
+
+Task: put the bowl on top of the cabinet view 65 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=230--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_65_15_100_.mp4
+Success: False
+# episodes completed so far: 230
+# successes: 40 (17.4%)
+Current task success rate: 0.0
+Current total success rate: 0.17391304347826086
+
+Task: put the bowl on top of the cabinet view 66 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=231--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_66_0_100_0.mp4
+Success: False
+# episodes completed so far: 231
+# successes: 40 (17.3%)
+Current task success rate: 0.0
+Current total success rate: 0.17316017316017315
+
+Task: put the bowl on top of the cabinet view 66 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=232--success=False--task=put_the_bowl_on_top_of_the_cabinet_view_66_15_100_.mp4
+Success: False
+# episodes completed so far: 232
+# successes: 40 (17.2%)
+Current task success rate: 0.0
+Current total success rate: 0.1724137931034483
+
+Task: put the bowl on top of the cabinet view 67 0 100 0 0 initstate 0
+Starting episode 1...

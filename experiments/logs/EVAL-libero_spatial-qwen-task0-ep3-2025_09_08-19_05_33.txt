@@ -1,0 +1,7 @@
+Task suite: libero_spatial
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 3...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_08/2025_09_08-19_05_33--openvla_oft--episode=0--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Task 0 Episode 3 Success: False Time: 571.19s

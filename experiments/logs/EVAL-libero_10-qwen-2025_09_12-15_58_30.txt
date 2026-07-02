@@ -1,0 +1,758 @@
+Task suite: libero_10
+
+Task: turn on the stove and put the moka pot on it table 1
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=1--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 1
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0
+
+Task: turn on the stove and put the moka pot on it table 10
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=2--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: True
+# episodes completed so far: 2
+# successes: 1 (50.0%)
+Current task success rate: 1.0
+Current total success rate: 0.5
+
+Task: turn on the stove and put the moka pot on it table 11
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=3--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 3
+# successes: 1 (33.3%)
+Current task success rate: 0.0
+Current total success rate: 0.3333333333333333
+
+Task: turn on the stove and put the moka pot on it table 12
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=4--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 4
+# successes: 1 (25.0%)
+Current task success rate: 0.0
+Current total success rate: 0.25
+
+Task: turn on the stove and put the moka pot on it table 13
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=5--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 5
+# successes: 1 (20.0%)
+Current task success rate: 0.0
+Current total success rate: 0.2
+
+Task: turn on the stove and put the moka pot on it table 14
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=6--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 6
+# successes: 1 (16.7%)
+Current task success rate: 0.0
+Current total success rate: 0.16666666666666666
+
+Task: turn on the stove and put the moka pot on it table 15
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=7--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 7
+# successes: 1 (14.3%)
+Current task success rate: 0.0
+Current total success rate: 0.14285714285714285
+
+Task: turn on the stove and put the moka pot on it table 16
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=8--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 8
+# successes: 1 (12.5%)
+Current task success rate: 0.0
+Current total success rate: 0.125
+
+Task: turn on the stove and put the moka pot on it table 17
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=9--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 9
+# successes: 1 (11.1%)
+Current task success rate: 0.0
+Current total success rate: 0.1111111111111111
+
+Task: turn on the stove and put the moka pot on it table 18
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=10--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 10
+# successes: 1 (10.0%)
+Current task success rate: 0.0
+Current total success rate: 0.1
+
+Task: turn on the stove and put the moka pot on it table 19
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=11--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 11
+# successes: 1 (9.1%)
+Current task success rate: 0.0
+Current total success rate: 0.09090909090909091
+
+Task: turn on the stove and put the moka pot on it table 2
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=12--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 12
+# successes: 1 (8.3%)
+Current task success rate: 0.0
+Current total success rate: 0.08333333333333333
+
+Task: turn on the stove and put the moka pot on it table 20
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=13--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: True
+# episodes completed so far: 13
+# successes: 2 (15.4%)
+Current task success rate: 1.0
+Current total success rate: 0.15384615384615385
+
+Task: turn on the stove and put the moka pot on it table 21
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=14--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 14
+# successes: 2 (14.3%)
+Current task success rate: 0.0
+Current total success rate: 0.14285714285714285
+
+Task: turn on the stove and put the moka pot on it table 22
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=15--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 15
+# successes: 2 (13.3%)
+Current task success rate: 0.0
+Current total success rate: 0.13333333333333333
+
+Task: turn on the stove and put the moka pot on it table 23
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=16--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 16
+# successes: 2 (12.5%)
+Current task success rate: 0.0
+Current total success rate: 0.125
+
+Task: turn on the stove and put the moka pot on it table 24
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=17--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 17
+# successes: 2 (11.8%)
+Current task success rate: 0.0
+Current total success rate: 0.11764705882352941
+
+Task: turn on the stove and put the moka pot on it table 25
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=18--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 18
+# successes: 2 (11.1%)
+Current task success rate: 0.0
+Current total success rate: 0.1111111111111111
+
+Task: turn on the stove and put the moka pot on it table 26
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=19--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 19
+# successes: 2 (10.5%)
+Current task success rate: 0.0
+Current total success rate: 0.10526315789473684
+
+Task: turn on the stove and put the moka pot on it table 27
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=20--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: True
+# episodes completed so far: 20
+# successes: 3 (15.0%)
+Current task success rate: 1.0
+Current total success rate: 0.15
+
+Task: turn on the stove and put the moka pot on it table 28
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=21--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 21
+# successes: 3 (14.3%)
+Current task success rate: 0.0
+Current total success rate: 0.14285714285714285
+
+Task: turn on the stove and put the moka pot on it table 3
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=22--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 22
+# successes: 3 (13.6%)
+Current task success rate: 0.0
+Current total success rate: 0.13636363636363635
+
+Task: turn on the stove and put the moka pot on it table 4
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=23--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 23
+# successes: 3 (13.0%)
+Current task success rate: 0.0
+Current total success rate: 0.13043478260869565
+
+Task: turn on the stove and put the moka pot on it table 5
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=24--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: True
+# episodes completed so far: 24
+# successes: 4 (16.7%)
+Current task success rate: 1.0
+Current total success rate: 0.16666666666666666
+
+Task: turn on the stove and put the moka pot on it table 6
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=25--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 25
+# successes: 4 (16.0%)
+Current task success rate: 0.0
+Current total success rate: 0.16
+
+Task: turn on the stove and put the moka pot on it table 7
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=26--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 26
+# successes: 4 (15.4%)
+Current task success rate: 0.0
+Current total success rate: 0.15384615384615385
+
+Task: turn on the stove and put the moka pot on it table 8
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=27--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: False
+# episodes completed so far: 27
+# successes: 4 (14.8%)
+Current task success rate: 0.0
+Current total success rate: 0.14814814814814814
+
+Task: turn on the stove and put the moka pot on it table 9
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=28--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it_table.mp4
+Success: True
+# episodes completed so far: 28
+# successes: 5 (17.9%)
+Current task success rate: 1.0
+Current total success rate: 0.17857142857142858
+
+Task: turn on the stove and put the moka pot on it tb 1
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=29--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_1.mp4
+Success: False
+# episodes completed so far: 29
+# successes: 5 (17.2%)
+Current task success rate: 0.0
+Current total success rate: 0.1724137931034483
+
+Task: turn on the stove and put the moka pot on it tb 10
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=30--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_10.mp4
+Success: False
+# episodes completed so far: 30
+# successes: 5 (16.7%)
+Current task success rate: 0.0
+Current total success rate: 0.16666666666666666
+
+Task: turn on the stove and put the moka pot on it tb 11
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=31--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_11.mp4
+Success: False
+# episodes completed so far: 31
+# successes: 5 (16.1%)
+Current task success rate: 0.0
+Current total success rate: 0.16129032258064516
+
+Task: turn on the stove and put the moka pot on it tb 12
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=32--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_12.mp4
+Success: False
+# episodes completed so far: 32
+# successes: 5 (15.6%)
+Current task success rate: 0.0
+Current total success rate: 0.15625
+
+Task: turn on the stove and put the moka pot on it tb 13
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=33--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_13.mp4
+Success: False
+# episodes completed so far: 33
+# successes: 5 (15.2%)
+Current task success rate: 0.0
+Current total success rate: 0.15151515151515152
+
+Task: turn on the stove and put the moka pot on it tb 14
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=34--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_14.mp4
+Success: False
+# episodes completed so far: 34
+# successes: 5 (14.7%)
+Current task success rate: 0.0
+Current total success rate: 0.14705882352941177
+
+Task: turn on the stove and put the moka pot on it tb 15
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=35--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_15.mp4
+Success: False
+# episodes completed so far: 35
+# successes: 5 (14.3%)
+Current task success rate: 0.0
+Current total success rate: 0.14285714285714285
+
+Task: turn on the stove and put the moka pot on it tb 16
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=36--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_16.mp4
+Success: True
+# episodes completed so far: 36
+# successes: 6 (16.7%)
+Current task success rate: 1.0
+Current total success rate: 0.16666666666666666
+
+Task: turn on the stove and put the moka pot on it tb 17
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=37--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_17.mp4
+Success: False
+# episodes completed so far: 37
+# successes: 6 (16.2%)
+Current task success rate: 0.0
+Current total success rate: 0.16216216216216217
+
+Task: turn on the stove and put the moka pot on it tb 18
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=38--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_18.mp4
+Success: False
+# episodes completed so far: 38
+# successes: 6 (15.8%)
+Current task success rate: 0.0
+Current total success rate: 0.15789473684210525
+
+Task: turn on the stove and put the moka pot on it tb 19
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=39--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_19.mp4
+Success: False
+# episodes completed so far: 39
+# successes: 6 (15.4%)
+Current task success rate: 0.0
+Current total success rate: 0.15384615384615385
+
+Task: turn on the stove and put the moka pot on it tb 2
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=40--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_2.mp4
+Success: False
+# episodes completed so far: 40
+# successes: 6 (15.0%)
+Current task success rate: 0.0
+Current total success rate: 0.15
+
+Task: turn on the stove and put the moka pot on it tb 20
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=41--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_20.mp4
+Success: False
+# episodes completed so far: 41
+# successes: 6 (14.6%)
+Current task success rate: 0.0
+Current total success rate: 0.14634146341463414
+
+Task: turn on the stove and put the moka pot on it tb 21
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=42--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_21.mp4
+Success: True
+# episodes completed so far: 42
+# successes: 7 (16.7%)
+Current task success rate: 1.0
+Current total success rate: 0.16666666666666666
+
+Task: turn on the stove and put the moka pot on it tb 22
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=43--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_22.mp4
+Success: True
+# episodes completed so far: 43
+# successes: 8 (18.6%)
+Current task success rate: 1.0
+Current total success rate: 0.18604651162790697
+
+Task: turn on the stove and put the moka pot on it tb 3
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=44--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_3.mp4
+Success: False
+# episodes completed so far: 44
+# successes: 8 (18.2%)
+Current task success rate: 0.0
+Current total success rate: 0.18181818181818182
+
+Task: turn on the stove and put the moka pot on it tb 4
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=45--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_4.mp4
+Success: False
+# episodes completed so far: 45
+# successes: 8 (17.8%)
+Current task success rate: 0.0
+Current total success rate: 0.17777777777777778
+
+Task: turn on the stove and put the moka pot on it tb 5
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=46--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_5.mp4
+Success: False
+# episodes completed so far: 46
+# successes: 8 (17.4%)
+Current task success rate: 0.0
+Current total success rate: 0.17391304347826086
+
+Task: turn on the stove and put the moka pot on it tb 6
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=47--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_6.mp4
+Success: False
+# episodes completed so far: 47
+# successes: 8 (17.0%)
+Current task success rate: 0.0
+Current total success rate: 0.1702127659574468
+
+Task: turn on the stove and put the moka pot on it tb 7
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=48--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_7.mp4
+Success: False
+# episodes completed so far: 48
+# successes: 8 (16.7%)
+Current task success rate: 0.0
+Current total success rate: 0.16666666666666666
+
+Task: turn on the stove and put the moka pot on it tb 8
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=49--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_8.mp4
+Success: False
+# episodes completed so far: 49
+# successes: 8 (16.3%)
+Current task success rate: 0.0
+Current total success rate: 0.16326530612244897
+
+Task: turn on the stove and put the moka pot on it tb 9
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=50--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it_tb_9.mp4
+Success: False
+# episodes completed so far: 50
+# successes: 8 (16.0%)
+Current task success rate: 0.0
+Current total success rate: 0.16
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 1
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=51--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 51
+# successes: 8 (15.7%)
+Current task success rate: 0.0
+Current total success rate: 0.1568627450980392
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 10
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=52--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 52
+# successes: 9 (17.3%)
+Current task success rate: 1.0
+Current total success rate: 0.17307692307692307
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 11
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=53--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 53
+# successes: 9 (17.0%)
+Current task success rate: 0.0
+Current total success rate: 0.16981132075471697
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 12
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=54--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 54
+# successes: 10 (18.5%)
+Current task success rate: 1.0
+Current total success rate: 0.18518518518518517
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 13
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=55--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 55
+# successes: 10 (18.2%)
+Current task success rate: 0.0
+Current total success rate: 0.18181818181818182
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 14
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=56--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 56
+# successes: 11 (19.6%)
+Current task success rate: 1.0
+Current total success rate: 0.19642857142857142
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 15
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=57--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 57
+# successes: 11 (19.3%)
+Current task success rate: 0.0
+Current total success rate: 0.19298245614035087
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 16
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=58--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 58
+# successes: 12 (20.7%)
+Current task success rate: 1.0
+Current total success rate: 0.20689655172413793
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 17
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=59--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 59
+# successes: 12 (20.3%)
+Current task success rate: 0.0
+Current total success rate: 0.2033898305084746
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 18
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=60--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 60
+# successes: 13 (21.7%)
+Current task success rate: 1.0
+Current total success rate: 0.21666666666666667
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 19
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=61--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 61
+# successes: 14 (23.0%)
+Current task success rate: 1.0
+Current total success rate: 0.22950819672131148
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 2
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=62--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 62
+# successes: 14 (22.6%)
+Current task success rate: 0.0
+Current total success rate: 0.22580645161290322
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 20
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=63--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 63
+# successes: 14 (22.2%)
+Current task success rate: 0.0
+Current total success rate: 0.2222222222222222
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 21
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=64--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 64
+# successes: 15 (23.4%)
+Current task success rate: 1.0
+Current total success rate: 0.234375
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 22
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=65--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 65
+# successes: 15 (23.1%)
+Current task success rate: 0.0
+Current total success rate: 0.23076923076923078
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 23
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=66--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 66
+# successes: 15 (22.7%)
+Current task success rate: 0.0
+Current total success rate: 0.22727272727272727
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 24
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=67--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 67
+# successes: 16 (23.9%)
+Current task success rate: 1.0
+Current total success rate: 0.23880597014925373
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 25
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=68--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 68
+# successes: 17 (25.0%)
+Current task success rate: 1.0
+Current total success rate: 0.25
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 26
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=69--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 69
+# successes: 17 (24.6%)
+Current task success rate: 0.0
+Current total success rate: 0.2463768115942029
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 27
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=70--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 70
+# successes: 18 (25.7%)
+Current task success rate: 1.0
+Current total success rate: 0.2571428571428571
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 28
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=71--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 71
+# successes: 19 (26.8%)
+Current task success rate: 1.0
+Current total success rate: 0.2676056338028169
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 3
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=72--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 72
+# successes: 20 (27.8%)
+Current task success rate: 1.0
+Current total success rate: 0.2777777777777778
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 4
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=73--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 73
+# successes: 20 (27.4%)
+Current task success rate: 0.0
+Current total success rate: 0.273972602739726
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 5
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=74--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 74
+# successes: 20 (27.0%)
+Current task success rate: 0.0
+Current total success rate: 0.2702702702702703
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 6
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=75--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 75
+# successes: 20 (26.7%)
+Current task success rate: 0.0
+Current total success rate: 0.26666666666666666
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 7
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=76--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 76
+# successes: 21 (27.6%)
+Current task success rate: 1.0
+Current total success rate: 0.27631578947368424
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 8
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=77--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 77
+# successes: 22 (28.6%)
+Current task success rate: 1.0
+Current total success rate: 0.2857142857142857
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it table 9
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_12/2025_09_12-15_58_30--openvla_oft--episode=78--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 78
+# successes: 23 (29.5%)
+Current task success rate: 1.0
+Current total success rate: 0.2948717948717949

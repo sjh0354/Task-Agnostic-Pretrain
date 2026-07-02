@@ -1,0 +1,4 @@
+Task suite: libero_goal
+
+Task: 
+Starting episode 1...

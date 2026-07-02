@@ -1,0 +1,22 @@
+Task suite: libero_spatial
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 101 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_10/2025_09_10-01_48_41--openvla_oft--episode=1--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 1
+# successes: 1 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 102 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_10/2025_09_10-01_48_41--openvla_oft--episode=2--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 2
+# successes: 2 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 103 0 0 initstate 0
+Starting episode 1...

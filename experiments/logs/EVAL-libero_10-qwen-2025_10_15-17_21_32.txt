@@ -1,0 +1,3843 @@
+Task suite: libero_10
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=1--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: Fa
+Task: put both the alphabet soup and the tomato sauce in
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 2...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=2--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: Fal
+Task: put both the alphabet soup and the tomato sauce i
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 3...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=3--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 3
+# successes: 0 (0.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 4...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=4--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 4
+# successes: 0 (0.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 5...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=5--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 5
+# successes: 0 (0.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 6...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=6--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 6
+# successes: 0 (0.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 7...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=7--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 7
+# successes: 0 (0.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 8...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=8--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 8
+# successes: 0 (0.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 9...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=9--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 9
+# successes: 0 (0.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 10...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=10--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 10
+# successes: 0 (0.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 11...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=11--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 11
+# successes: 0 (0.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=12--success=True--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: True
+# episodes completed so far: 12
+# successes: 1 (8.3%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 13...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=13--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 13
+# successes: 1 (7.7%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 14...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=14--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 14
+# successes: 1 (7.1%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 15...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=15--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 15
+# successes: 1 (6.7%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=16--success=True--task=put_both_the_alphabet_
+Task: put both the alphabet soup and the tomato sauce 
+Task: put both the alphabet soup and the tomat
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 17...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=17--success=False--task=put_both_the_alphabet_s
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 18...
+Caught exc
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 18...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=18--success=False--task=put_both_the_alphabet_s
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 19...
+Caught exc
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 19...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=19--success=False--task=put_both_the_alphabet_s
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 20...
+Caught exc
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 20...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=20--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 20
+# successes: 2 (10.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 21...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=21--success=True--task=put_both_the_alphabet_
+Task: put both the alphabet soup and the tomato sauce 
+Task: put both the alphabet soup and the tomat
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 22...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=22--success=False--task=put_both_the_alphabet_s
+Task: put both the alphabet soup and the tomato sauce 
+Task: put both the alphabet soup and the tomat
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 23...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=23--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 23
+# successes: 3 (13.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 24...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=24--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 24
+# successes: 3 (12.5%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 25...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=25--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 25
+# successes: 3 (12.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 26...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=26--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 26
+# successes: 3 (11.5%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=27--success=True--task=put_both_the_alphabet_
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 28...
+Caught exc
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 28...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=28--success=False--task=put_both_the_alphabet_s
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 29...
+Caught exc
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 29...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=29--success=False--task=put_both_the_alphabet_s
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 30...
+Caught exc
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 30...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=30--success=False--task=put_both_the_alphabet_s
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 31...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=31--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 31
+# successes: 6 (19.4%)
+
+Task: put both the alphabet soup and the t
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 32...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=32--success=False--task=put_both_the_alphabet_s
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 33...
+Caught exc
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 33...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=33--success=False--task=put_both_the_alphabet_s
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 34...
+Caught exc
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 34...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=34--success=False--task=put_both_the_alphabet_s
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 35...
+Caught exc
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 35...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=35--success=False--task=put_both_the_alphabet_s
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 36...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=36--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 36
+# successes: 7 (19.4%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 37...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=37--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 37
+# successes: 7 (18.9%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 38...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=38--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 38
+# successes: 7 (18.4%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 39...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=39--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 39
+# successes: 7 (17.9%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 40...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=40--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 40
+# successes: 7 (17.5%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 41...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=41--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 41
+# successes: 7 (17.1%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 42...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=42--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 42
+# successes: 7 (16.7%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 43...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=43--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 43
+# successes: 7 (16.3%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=44--success=True--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: True
+# episodes completed so far: 44
+# successes: 8 (18.2%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=45--success=True--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: True
+# episodes completed so far: 45
+# successes: 9 (20.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 46...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=46--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 46
+# successes: 9 (19.6%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 47...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=47--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 47
+# successes: 9 (19.1%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 48...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=48--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 48
+# successes: 9 (18.8%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=49--success=True--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: True
+# episodes completed so far: 49
+# successes: 10 (20.4%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 50...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=50--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 50
+# successes: 10 (20.0%)
+Current task success rate: 0.2
+Current total success rate: 0.2
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=51--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 51
+# successes: 10 (19.6%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 2...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=52--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 52
+# successes: 10 (19.2%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 3...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=53--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 53
+# successes: 10 (18.9%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=54--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 54
+# successes: 11 (20.4%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 5...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=55--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 55
+# successes: 11 (20.0%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=56--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 56
+# successes: 12 (21.4%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=57--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 57
+# successes: 13 (22.8%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=58--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 58
+# successes: 14 (24.1%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=59--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 59
+# successes: 15 (25.4%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 10...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=60--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 60
+# successes: 15 (25.0%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 11...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=61--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 61
+# successes: 15 (24.6%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=62--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 62
+# successes: 16 (25.8%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=63--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 63
+# successes: 17 (27.0%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=64--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 64
+# successes: 18 (28.1%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 15...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=65--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 65
+# successes: 19 (29.2%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=66--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 66
+# successes: 20 (30.3%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=67--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 67
+# successes: 21 (31.3%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 18...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=68--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 68
+# successes: 21 (30.9%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=69--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 69
+# successes: 22 (31.9%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 20...
+Saved rollout MP4 a
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 20...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--open
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 21...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=71--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 71
+# successes: 23 (32.4%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 22...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=72--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 72
+# successes: 23 (31.9%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 23...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=73--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 73
+# successes: 23 (31.5%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=74--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 74
+# successes: 24 (32.4%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=75--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 75
+# successes: 25 (33.3%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=76--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 76
+# successes: 26 (34.2%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=77--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 77
+# successes: 27 (35.1%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 28...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=78--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 78
+# successes: 27 (34.6%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=79--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 79
+# successes: 28 (35.4%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 30...
+Saved rollout MP4 a
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 30...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--open
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 31...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=81--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 81
+# successes: 29 (35.8%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 32...
+Saved rollout MP4 a
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 32...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--open
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 33...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at 
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 33...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--open
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 34...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=84--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 84
+# successes: 30 (35.7%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 35...
+Saved rollout MP4 a
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 35...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--open
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 36...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at 
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 36...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--open
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_o
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--op
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_o
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--op
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_o
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--op
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_o
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--op
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=91--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 91
+# successes: 36 (39.6%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 42...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=92--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 92
+# successes: 36 (39.1%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=93--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 93
+# successes: 37 (39.8%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 44...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=94--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 94
+# successes: 37 (39.4%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 45...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=95--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 95
+# successes: 37 (38.9%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 46...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=96--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 96
+# successes: 37 (38.5%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 47...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=97--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 97
+# successes: 37 (38.1%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 48...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=98--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 98
+# successes: 37 (37.8%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=99--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 99
+# successes: 38 (38.4%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 50...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=100--success=False--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: False
+# episodes completed so far: 100
+# successes: 38 (38.0%)
+Current task success rate: 0.56
+Current total success rate: 0.38
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=101--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 101
+# successes: 38 (37.6%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 2...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=102--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 102
+# successes: 38 (37.3%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=103--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 103
+# successes: 39 (37.9%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=104--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 104
+# successes: 40 (38.5%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=105--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 105
+# successes: 41 (39.0%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=106--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 106
+# successes: 42 (39.6%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 7...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=107--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 107
+# successes: 42 (39.3%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=108--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 108
+# successes: 43 (39.8%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 9...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=109--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 109
+# successes: 43 (39.4%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=110--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 110
+# successes: 44 (40.0%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 11...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=111--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 111
+# successes: 44 (39.6%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=112--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 112
+# successes: 45 (40.2%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 13...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=113--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 113
+# successes: 45 (39.8%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=114--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 114
+# successes: 46 (40.4%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 15...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=115--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 115
+# successes: 46 (40.0%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=116--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 116
+# successes: 47 (40.5%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 17...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=117--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 117
+# successes: 47 (40.2%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 18...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=118--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 118
+# successes: 47 (39.8%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 19...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=119--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 119
+# successes: 47 (39.5%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 20...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=120--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 120
+# successes: 47 (39.2%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 21...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=121--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 121
+# successes: 47 (38.8%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=122--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 122
+# successes: 48 (39.3%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=123--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 123
+# successes: 49 (39.8%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=124--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 124
+# successes: 50 (40.3%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=125--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 125
+# successes: 51 (40.8%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 26...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=126--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 126
+# successes: 51 (40.5%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=127--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 127
+# successes: 52 (40.9%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 28...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=128--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 128
+# successes: 52 (40.6%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=129--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 129
+# successes: 53 (41.1%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=130--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 130
+# successes: 54 (41.5%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 31...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=131--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 131
+# successes: 54 (41.2%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 32...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=132--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 132
+# successes: 54 (40.9%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=133--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 133
+# successes: 55 (41.4%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 34...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=134--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 134
+# successes: 55 (41.0%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 35...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=135--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 135
+# successes: 55 (40.7%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=136--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 136
+# successes: 56 (41.2%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=137--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 137
+# successes: 57 (41.6%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 38...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=138--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 138
+# successes: 57 (41.3%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=139--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 139
+# successes: 58 (41.7%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 40...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=140--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 140
+# successes: 58 (41.4%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 41...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=141--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 141
+# successes: 58 (41.1%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=142--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 142
+# successes: 59 (41.5%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=143--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 143
+# successes: 60 (42.0%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 44...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=144--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 144
+# successes: 61 (42.4%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 45...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=14
+Task: turn on the stove and put the moka pot on it
+Starting episode 45...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=145--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 145
+# successes: 58 (40.0%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 46...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=146--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 146
+# successes: 58 (39.7%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 47...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=147--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 147
+# successes: 58 (39.5%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 48...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=148--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 148
+# successes: 58 (39.2%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 49...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=149--success=False--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: False
+# episodes completed so far: 149
+# successes: 58 (38.9%)
+
+Task: turn on the stove and put the moka pot on it
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=150--success=True--task=turn_on_the_stove_and_put_the_moka_pot_on_it.mp4
+Success: True
+# episodes completed so far: 150
+# successes: 59 (39.3%)
+Current task success rate: 0.4
+Current total success rate: 0.3933333333333333
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=151--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 151
+# successes: 59 (39.1%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 2...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=152--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 152
+# successes: 59 (38.8%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 3...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=153--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 153
+# successes: 59 (38.6%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 4...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=154--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 154
+# successes: 59 (38.3%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 5...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=155--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 155
+# successes: 59 (38.1%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 6...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=156--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 156
+# successes: 59 (37.8%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 7...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=157--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 157
+# successes: 59 (37.6%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 8...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=158--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 158
+# successes: 59 (37.3%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=159--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 159
+# successes: 60 (37.7%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 10...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=160--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 160
+# successes: 60 (37.5%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=161--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 161
+# successes: 61 (37.9%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 12...
+Saved rollout M
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 13...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=163--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 163
+# successes: 66 (40.5%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 14...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=164--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 164
+# successes: 66 (40.2%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 15...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=165--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 165
+# successes: 66 (40.0%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 16...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=166--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 166
+# successes: 66 (39.8%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 17...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=167--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 167
+# successes: 66 (39.5%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 18...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=168--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 168
+# successes: 66 (39.3%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 19...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=169--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 169
+# successes: 66 (39.1%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 20...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=170--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 170
+# successes: 66 (38.8%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 21...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=171--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 171
+# successes: 66 (38.6%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 22...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=172--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 172
+# successes: 66 (38.4%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 23...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=173--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 173
+# successes: 66 (38.2%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 24...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=174--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 174
+# successes: 67 (38.5%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=175--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 175
+# successes: 68 (38.9%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 26...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=176--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 176
+# successes: 68 (38.6%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 27...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=177--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 177
+# successes: 68 (38.4%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 28...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=178--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 178
+# successes: 68 (38.2%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 29...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=179--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 179
+# successes: 68 (38.0%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 30...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=180--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 180
+# successes: 68 (37.8%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 31...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=181--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 181
+# successes: 68 (37.6%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 32...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=182--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 182
+# successes: 68 (37.4%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 33...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=183--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 183
+# successes: 68 (37.2%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 34...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=184--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 184
+# successes: 68 (37.0%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=185--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 185
+# successes: 69 (37.3%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 36...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=186--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 186
+# successes: 69 (37.1%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 37...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=187--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 187
+# successes: 69 (36.9%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 38...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=188--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 188
+# successes: 70 (37.2%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 39...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=189--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 189
+# successes: 70 (37.0%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 40...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=190--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 190
+# successes: 70 (36.8%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 41...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=191--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 191
+# successes: 70 (36.6%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 42...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=192--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 192
+# successes: 70 (36.5%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=193--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 193
+# successes: 71 (36.8%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 44...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=194--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 194
+# successes: 71 (36.6%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 45...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=195--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 195
+# successes: 71 (36.4%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 46...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=196--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 196
+# successes: 71 (36.2%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=197--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 197
+# successes: 72 (36.5%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=198--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 198
+# successes: 73 (36.9%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=199--success=True--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: True
+# episodes completed so far: 199
+# successes: 74 (37.2%)
+
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+Starting episode 50...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=200--success=False--task=put_the_black_bowl_in_the_bottom_drawer_of_the_cab.mp4
+Success: False
+# episodes completed so far: 200
+# successes: 74 (37.0%)
+Current task success rate: 0.2
+Current total success rate: 0.37
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=201--success=True--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: True
+# episodes completed so far: 201
+# successes: 75 (37.3%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 2...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=202--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 202
+# successes: 75 (37.1%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 3...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=203--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 203
+# successes: 75 (36.9%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=204--success=True--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: True
+# episodes completed so far: 204
+# successes: 76 (37.3%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 5...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=205--success=True--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: True
+# episodes completed so far: 205
+# successes: 77 (37.6%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=206--success=True--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: True
+# episodes completed so far: 206
+# successes: 78 (37.9%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=207--success=True--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: True
+# episodes completed so far: 207
+# successes: 79 (38.2%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 8...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=208--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 208
+# successes: 79 (38.0%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 9...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=209--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 209
+# successes: 79 (37.8%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 10...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=210--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 210
+# successes: 79 (37.6%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=211--success=True--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: True
+# episodes completed so far: 211
+# successes: 80 (37.9%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 12...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=212--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 212
+# successes: 80 (37.7%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 13...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=213--success=True--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: True
+# episodes completed so far: 213
+# successes: 81 (38.0%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=214--success=True--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: True
+# episodes completed so far: 214
+# successes: 82 (38.3%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 15...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=215--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 215
+# successes: 82 (38.1%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 16...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=216--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 216
+# successes: 82 (38.0%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 17...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=217--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 217
+# successes: 82 (37.8%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_10_15/20
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 18...
+Caught exception: executing action in terminated episode
+Saved rollout M
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 19...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=219--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 219
+# successes: 83 (37.9%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 20...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=220--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 220
+# successes: 83 (37.7%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 21...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=221--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 221
+# successes: 83 (37.6%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 22...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=222--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 222
+# successes: 83 (37.4%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 23...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=223--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 223
+# successes: 83 (37.2%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 24...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=224--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 224
+# successes: 83 (37.1%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 25...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=225--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 225
+# successes: 83 (36.9%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=226--success=True--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: True
+# episodes completed so far: 226
+# successes: 84 (37.2%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 27...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=227--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 227
+# successes: 84 (37.0%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 28...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=228--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 228
+# successes: 84 (36.8%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=229--success=True--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: True
+# episodes completed so far: 229
+# successes: 85 (37.1%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 30...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=230--success=True--
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 30...
+Caught except
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 31...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=231--success=False--t
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 31...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=231--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 231
+# successes: 81 (35.1%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 32...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=232--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 232
+# successes: 81 (34.9%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 33...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=233--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 233
+# successes: 81 (34.8%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 34...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=234--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 234
+# successes: 81 (34.6%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 35...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=235--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 235
+# successes: 81 (34.5%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 36...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=236--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 236
+# successes: 81 (34.3%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 37...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=237--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 237
+# successes: 81 (34.2%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 38...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=238--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 238
+# successes: 81 (34.0%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 39...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=239--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 239
+# successes: 81 (33.9%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=240--success=True--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: True
+# episodes completed so far: 240
+# successes: 82 (34.2%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 41...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=241--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 241
+# successes: 82 (34.0%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 42...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=242--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 242
+# successes: 82 (33.9%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 43...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=243--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 243
+# successes: 82 (33.7%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 44...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=244--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 244
+# successes: 82 (33.6%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 45...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=245--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 245
+# successes: 82 (33.5%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=246--success=True--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: True
+# episodes completed so far: 246
+# successes: 83 (33.7%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 47...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=247--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 247
+# successes: 83 (33.6%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=248--success=True--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: True
+# episodes completed so far: 248
+# successes: 84 (33.9%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 49...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=249--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 249
+# successes: 84 (33.7%)
+
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+Starting episode 50...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=250--success=False--task=put_the_white_mug_on_the_left_plate_and_put_the_ye.mp4
+Success: False
+# episodes completed so far: 250
+# successes: 84 (33.6%)
+Current task success rate: 0.14
+Current total success rate: 0.336
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=251--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 251
+# successes: 84 (33.5%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 2...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=252--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 252
+# successes: 84 (33.3%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 3...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=253--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 253
+# successes: 84 (33.2%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 4...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=254--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 254
+# successes: 84 (33.1%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 5...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=255--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 255
+# successes: 84 (32.9%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 6...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=256--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 256
+# successes: 84 (32.8%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 7...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=257--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 257
+# successes: 84 (32.7%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 8...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=258--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 258
+# successes: 84 (32.6%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 9...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=259--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 259
+# successes: 84 (32.4%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=260--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: True
+# episodes completed so far: 260
+# successes: 85 (32.7%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 11...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=261--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: True
+# episodes completed so far: 261
+# successes: 86 (33.0%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 12...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=262--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 262
+# successes: 86 (32.8%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 13...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=263--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 263
+# successes: 86 (32.7%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 14...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=264--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 264
+# successes: 86 (32.6%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 15...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=265--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 265
+# successes: 86 (32.5%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 16...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=266--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 266
+# successes: 86 (32.3%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 17...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=267--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: True
+# episodes completed so far: 267
+# successes: 87 (32.6%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=268--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: True
+# episodes completed so far: 268
+# successes: 88 (32.8%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=269--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: True
+# episodes completed so far: 269
+# successes: 89 (33.1%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 20...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=270--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 270
+# successes: 89 (33.0%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 21...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=271--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 271
+# successes: 89 (32.8%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 22...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=272--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 272
+# successes: 89 (32.7%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 23...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=273--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 273
+# successes: 89 (32.6%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 24...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=274--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 274
+# successes: 89 (32.5%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=275--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: True
+# episodes completed so far: 275
+# successes: 90 (32.7%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 26...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=276--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 276
+# successes: 90 (32.6%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 27...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=277--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 277
+# successes: 90 (32.5%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 28...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=278--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 278
+# successes: 90 (32.4%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=279--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: True
+# episodes completed so far: 279
+# successes: 91 (32.6%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 30...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=280--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 280
+# successes: 91 (32.5%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 31...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=281--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 281
+# successes: 91 (32.4%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 32...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=282--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 282
+# successes: 91 (32.3%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=283--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: True
+# episodes completed so far: 283
+# successes: 92 (32.5%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 34...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=284--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 284
+# successes: 92 (32.4%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=285--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: True
+# episodes completed so far: 285
+# successes: 93 (32.6%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 36...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=286--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 286
+# successes: 93 (32.5%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=287--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: True
+# episodes completed so far: 287
+# successes: 94 (32.8%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 38...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=288--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 288
+# successes: 94 (32.6%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 39...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=289--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 289
+# successes: 94 (32.5%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 40...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=290--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 290
+# successes: 94 (32.4%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 41...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=291--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 291
+# successes: 94 (32.3%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 42...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=292--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 292
+# successes: 94 (32.2%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 43...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=293--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 293
+# successes: 94 (32.1%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 44...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=294--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 294
+# successes: 94 (32.0%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 45...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=295--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 295
+# successes: 94 (31.9%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 46...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=296--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 296
+# successes: 94 (31.8%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=297--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: True
+# episodes completed so far: 297
+# successes: 95 (32.0%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 48...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=298--success=False--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: False
+# episodes completed so far: 298
+# successes: 95 (31.9%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=299--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: True
+# episodes completed so far: 299
+# successes: 96 (32.1%)
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=300--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Success: True
+# episodes completed so far: 300
+# successes: 97 (32.3%)
+Current task success rate: 0.26
+Current total success rate: 0.3233333333333333
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=301--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 301
+# successes: 97 (32.2%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=302--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 302
+# successes: 98 (32.5%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 3...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=303--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 303
+# successes: 98 (32.3%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=304--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 304
+# successes: 99 (32.6%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 5...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=305--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 305
+# successes: 99 (32.5%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 6...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=306--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 306
+# successes: 99 (32.4%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 7...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=307--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 307
+# successes: 99 (32.2%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=308--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 308
+# successes: 100 (32.5%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 9...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=309--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 309
+# successes: 101 (32.7%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=310--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 310
+# successes: 102 (32.9%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 11...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=311--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 311
+# successes: 102 (32.8%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 12...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=312--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 312
+# successes: 102 (32.7%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 13...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=313--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 313
+# successes: 102 (32.6%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 14...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=314--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 314
+# successes: 103 (32.8%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 15...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=315--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 315
+# successes: 103 (32.7%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 16...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=316--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 316
+# successes: 103 (32.6%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 17...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=317--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 317
+# successes: 103 (32.5%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 18...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=318--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 318
+# successes: 103 (32.4%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=319--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 319
+# successes: 104 (32.6%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 20...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=320--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 320
+# successes: 104 (32.5%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 21...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=321--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 321
+# successes: 104 (32.4%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 22...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=322--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 322
+# successes: 104 (32.3%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=323--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 323
+# successes: 105 (32.5%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 24...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=324--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 324
+# successes: 105 (32.4%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=325--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 325
+# successes: 106 (32.6%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=326--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 326
+# successes: 107 (32.8%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 27...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=327--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 327
+# successes: 107 (32.7%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 28...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=328--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 328
+# successes: 107 (32.6%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 29...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=329--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 329
+# successes: 107 (32.5%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 30...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=330--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 330
+# successes: 107 (32.4%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 31...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=331--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 331
+# successes: 107 (32.3%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 32...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=332--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 332
+# successes: 108 (32.5%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 33...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=333--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 333
+# successes: 108 (32.4%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 34...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=334--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 334
+# successes: 108 (32.3%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 35...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=335--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 335
+# successes: 108 (32.2%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 36...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=336--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 336
+# successes: 109 (32.4%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 37...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=337--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 337
+# successes: 109 (32.3%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 38...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=338--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 338
+# successes: 109 (32.2%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 39...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=339--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 339
+# successes: 109 (32.2%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 40...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=340--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 340
+# successes: 110 (32.4%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 41...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=341--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 341
+# successes: 110 (32.3%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=342--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 342
+# successes: 111 (32.5%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=343--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 343
+# successes: 112 (32.7%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 44...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=344--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 344
+# successes: 112 (32.6%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 45...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=345--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 345
+# successes: 112 (32.5%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 46...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=346--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 346
+# successes: 112 (32.4%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 47...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=347--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 347
+# successes: 112 (32.3%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 48...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=348--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 348
+# successes: 113 (32.5%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 49...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=349--success=True--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: True
+# episodes completed so far: 349
+# successes: 114 (32.7%)
+
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+Starting episode 50...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=350--success=False--task=put_the_white_mug_on_the_plate_and_put_the_chocola.mp4
+Success: False
+# episodes completed so far: 350
+# successes: 114 (32.6%)
+Current task success rate: 0.34
+Current total success rate: 0.32571428571428573
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=351--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 351
+# successes: 114 (32.5%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=352--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 352
+# successes: 115 (32.7%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=353--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 353
+# successes: 116 (32.9%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 4...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=354--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 354
+# successes: 116 (32.8%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 5...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=355--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 355
+# successes: 116 (32.7%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 6...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=356--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 356
+# successes: 116 (32.6%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 7...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=357--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 357
+# successes: 117 (32.8%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 8...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=358--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 358
+# successes: 118 (33.0%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 9...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=359--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 359
+# successes: 118 (32.9%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 10...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=360--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 360
+# successes: 118 (32.8%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 11...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=361--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 361
+# successes: 118 (32.7%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 12...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=362--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 362
+# successes: 119 (32.9%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 13...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=363--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 363
+# successes: 119 (32.8%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 14...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=364--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 364
+# successes: 119 (32.7%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 15...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=365--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 365
+# successes: 119 (32.6%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 16...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=366--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 366
+# successes: 120 (32.8%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 17...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=367--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 367
+# successes: 120 (32.7%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 18...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=368--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 368
+# successes: 120 (32.6%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 19...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=369--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 369
+# successes: 121 (32.8%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 20...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=370--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 370
+# successes: 121 (32.7%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 21...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=371--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 371
+# successes: 121 (32.6%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 22...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=372--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 372
+# successes: 121 (32.5%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 23...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=373--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 373
+# successes: 122 (32.7%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 24...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=374--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 374
+# successes: 122 (32.6%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 25...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=375--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 375
+# successes: 123 (32.8%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 26...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=376--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 376
+# successes: 123 (32.7%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 27...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=377--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 377
+# successes: 124 (32.9%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 28...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=378--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 378
+# successes: 125 (33.1%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 29...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=379--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 379
+# successes: 126 (33.2%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 30...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=380--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 380
+# successes: 126 (33.2%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 31...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=381--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 381
+# successes: 127 (33.3%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 32...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=382--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 382
+# successes: 127 (33.2%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 33...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=383--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 383
+# successes: 128 (33.4%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 34...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=384--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 384
+# successes: 128 (33.3%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 35...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=385--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 385
+# successes: 128 (33.2%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 36...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=386--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 386
+# successes: 128 (33.2%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 37...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=387--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 387
+# successes: 129 (33.3%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 38...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=388--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 388
+# successes: 129 (33.2%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 39...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=389--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 389
+# successes: 129 (33.2%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 40...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=390--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 390
+# successes: 129 (33.1%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 41...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=391--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 391
+# successes: 129 (33.0%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 42...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=392--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 392
+# successes: 130 (33.2%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 43...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=393--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 393
+# successes: 131 (33.3%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 44...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=394--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 394
+# successes: 131 (33.2%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 45...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=395--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 395
+# successes: 131 (33.2%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 46...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=396--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 396
+# successes: 132 (33.3%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=397--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 397
+# successes: 133 (33.5%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 48...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=398--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 398
+# successes: 133 (33.4%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 49...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=399--success=False--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: False
+# episodes completed so far: 399
+# successes: 133 (33.3%)
+
+Task: put both the alphabet soup and the cream cheese box in the basket
+Starting episode 50...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=400--success=True--task=put_both_the_alphabet_soup_and_the_cream_cheese_bo.mp4
+Success: True
+# episodes completed so far: 400
+# successes: 134 (33.5%)
+Current task success rate: 0.4
+Current total success rate: 0.335
+
+Task: put both moka pots on the stove
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=401--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 401
+# successes: 134 (33.4%)
+
+Task: put both moka pots on the stove
+Starting episode 2...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=402--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 402
+# successes: 134 (33.3%)
+
+Task: put both moka pots on the stove
+Starting episode 3...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=403--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 403
+# successes: 134 (33.3%)
+
+Task: put both moka pots on the stove
+Starting episode 4...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=404--success=True--task=put_both_moka_pots_on_the_stove.mp4
+Success: True
+# episodes completed so far: 404
+# successes: 135 (33.4%)
+
+Task: put both moka pots on the stove
+Starting episode 5...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=405--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 405
+# successes: 135 (33.3%)
+
+Task: put both moka pots on the stove
+Starting episode 6...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=406--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 406
+# successes: 135 (33.3%)
+
+Task: put both moka pots on the stove
+Starting episode 7...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=407--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 407
+# successes: 135 (33.2%)
+
+Task: put both moka pots on the stove
+Starting episode 8...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=408--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 408
+# successes: 135 (33.1%)
+
+Task: put both moka pots on the stove
+Starting episode 9...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=409--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 409
+# successes: 135 (33.0%)
+
+Task: put both moka pots on the stove
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=410--success=True--task=put_both_moka_pots_on_the_stove.mp4
+Success: True
+# episodes completed so far: 410
+# successes: 136 (33.2%)
+
+Task: put both moka pots on the stove
+Starting episode 11...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=411--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 411
+# successes: 136 (33.1%)
+
+Task: put both moka pots on the stove
+Starting episode 12...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=412--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 412
+# successes: 136 (33.0%)
+
+Task: put both moka pots on the stove
+Starting episode 13...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=413--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 413
+# successes: 136 (32.9%)
+
+Task: put both moka pots on the stove
+Starting episode 14...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=414--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 414
+# successes: 136 (32.9%)
+
+Task: put both moka pots on the stove
+Starting episode 15...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=415--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 415
+# successes: 136 (32.8%)
+
+Task: put both moka pots on the stove
+Starting episode 16...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=416--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 416
+# successes: 136 (32.7%)
+
+Task: put both moka pots on the stove
+Starting episode 17...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=417--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 417
+# successes: 136 (32.6%)
+
+Task: put both moka pots on the stove
+Starting episode 18...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=418--success=True--task=put_both_moka_pots_on_the_stove.mp4
+Success: True
+# episodes completed so far: 418
+# successes: 137 (32.8%)
+
+Task: put both moka pots on the stove
+Starting episode 19...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=419--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 419
+# successes: 137 (32.7%)
+
+Task: put both moka pots on the stove
+Starting episode 20...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=420--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 420
+# successes: 137 (32.6%)
+
+Task: put both moka pots on the stove
+Starting episode 21...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=421--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 421
+# successes: 137 (32.5%)
+
+Task: put both moka pots on the stove
+Starting episode 22...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=422--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 422
+# successes: 137 (32.5%)
+
+Task: put both moka pots on the stove
+Starting episode 23...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=423--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 423
+# successes: 137 (32.4%)
+
+Task: put both moka pots on the stove
+Starting episode 24...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=424--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 424
+# successes: 137 (32.3%)
+
+Task: put both moka pots on the stove
+Starting episode 25...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=425--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 425
+# successes: 137 (32.2%)
+
+Task: put both moka pots on the stove
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=426--success=True--task=put_both_moka_pots_on_the_stove.mp4
+Success: True
+# episodes completed so far: 426
+# successes: 138 (32.4%)
+
+Task: put both moka pots on the stove
+Starting episode 27...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=427--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 427
+# successes: 138 (32.3%)
+
+Task: put both moka pots on the stove
+Starting episode 28...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=428--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 428
+# successes: 138 (32.2%)
+
+Task: put both moka pots on the stove
+Starting episode 29...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=429--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 429
+# successes: 138 (32.2%)
+
+Task: put both moka pots on the stove
+Starting episode 30...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=430--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 430
+# successes: 138 (32.1%)
+
+Task: put both moka pots on the stove
+Starting episode 31...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=431--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 431
+# successes: 138 (32.0%)
+
+Task: put both moka pots on the stove
+Starting episode 32...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=432--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 432
+# successes: 138 (31.9%)
+
+Task: put both moka pots on the stove
+Starting episode 33...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=433--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 433
+# successes: 138 (31.9%)
+
+Task: put both moka pots on the stove
+Starting episode 34...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=434--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 434
+# successes: 138 (31.8%)
+
+Task: put both moka pots on the stove
+Starting episode 35...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=435--success=True--task=put_both_moka_pots_on_the_stove.mp4
+Success: True
+# episodes completed so far: 435
+# successes: 139 (32.0%)
+
+Task: put both moka pots on the stove
+Starting episode 36...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=436--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 436
+# successes: 139 (31.9%)
+
+Task: put both moka pots on the stove
+Starting episode 37...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=437--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 437
+# successes: 139 (31.8%)
+
+Task: put both moka pots on the stove
+Starting episode 38...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=438--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 438
+# successes: 139 (31.7%)
+
+Task: put both moka pots on the stove
+Starting episode 39...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=439--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 439
+# successes: 139 (31.7%)
+
+Task: put both moka pots on the stove
+Starting episode 40...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=440--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 440
+# successes: 139 (31.6%)
+
+Task: put both moka pots on the stove
+Starting episode 41...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=441--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 441
+# successes: 139 (31.5%)
+
+Task: put both moka pots on the stove
+Starting episode 42...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=442--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 442
+# successes: 139 (31.4%)
+
+Task: put both moka pots on the stove
+Starting episode 43...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=443--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 443
+# successes: 139 (31.4%)
+
+Task: put both moka pots on the stove
+Starting episode 44...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=444--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 444
+# successes: 139 (31.3%)
+
+Task: put both moka pots on the stove
+Starting episode 45...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=445--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 445
+# successes: 139 (31.2%)
+
+Task: put both moka pots on the stove
+Starting episode 46...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=446--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 446
+# successes: 139 (31.2%)
+
+Task: put both moka pots on the stove
+Starting episode 47...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=447--success=True--task=put_both_moka_pots_on_the_stove.mp4
+Success: True
+# episodes completed so far: 447
+# successes: 140 (31.3%)
+
+Task: put both moka pots on the stove
+Starting episode 48...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=448--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 448
+# successes: 140 (31.2%)
+
+Task: put both moka pots on the stove
+Starting episode 49...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=449--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 449
+# successes: 140 (31.2%)
+
+Task: put both moka pots on the stove
+Starting episode 50...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=450--success=False--task=put_both_moka_pots_on_the_stove.mp4
+Success: False
+# episodes completed so far: 450
+# successes: 140 (31.1%)
+Current task success rate: 0.12
+Current total success rate: 0.3111111111111111
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=451--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 451
+# successes: 140 (31.0%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 2...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=452--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 452
+# successes: 140 (31.0%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=453--success=True--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: True
+# episodes completed so far: 453
+# successes: 141 (31.1%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 4...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=454--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 454
+# successes: 141 (31.1%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 5...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=455--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 455
+# successes: 141 (31.0%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 6...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=456--success=True--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: True
+# episodes completed so far: 456
+# successes: 142 (31.1%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 7...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=457--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 457
+# successes: 142 (31.1%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 8...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=458--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 458
+# successes: 142 (31.0%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 9...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=459--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 459
+# successes: 142 (30.9%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 10...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=460--success=True--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: True
+# episodes completed so far: 460
+# successes: 143 (31.1%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 11...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=461--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 461
+# successes: 143 (31.0%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 12...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=462--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 462
+# successes: 143 (31.0%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 13...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=463--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 463
+# successes: 143 (30.9%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 14...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=464--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 464
+# successes: 143 (30.8%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 15...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=465--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 465
+# successes: 143 (30.8%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 16...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=466--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 466
+# successes: 143 (30.7%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 17...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=467--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 467
+# successes: 143 (30.6%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 18...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=468--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 468
+# successes: 143 (30.6%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 19...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=469--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 469
+# successes: 143 (30.5%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 20...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=470--success=True--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: True
+# episodes completed so far: 470
+# successes: 144 (30.6%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 21...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=471--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 471
+# successes: 144 (30.6%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 22...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=472--success=True--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: True
+# episodes completed so far: 472
+# successes: 145 (30.7%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 23...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=473--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 473
+# successes: 145 (30.7%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 24...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=474--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 474
+# successes: 145 (30.6%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 25...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=475--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 475
+# successes: 145 (30.5%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 26...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=476--success=True--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: True
+# episodes completed so far: 476
+# successes: 146 (30.7%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 27...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=477--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 477
+# successes: 146 (30.6%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 28...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=478--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 478
+# successes: 146 (30.5%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 29...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=479--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 479
+# successes: 146 (30.5%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 30...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=480--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 480
+# successes: 146 (30.4%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 31...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=481--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 481
+# successes: 146 (30.4%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 32...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=482--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 482
+# successes: 146 (30.3%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 33...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=483--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 483
+# successes: 146 (30.2%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 34...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=484--success=True--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: True
+# episodes completed so far: 484
+# successes: 147 (30.4%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 35...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=485--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 485
+# successes: 147 (30.3%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 36...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=486--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 486
+# successes: 147 (30.2%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 37...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=487--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 487
+# successes: 147 (30.2%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 38...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=488--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 488
+# successes: 147 (30.1%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 39...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=489--success=True--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: True
+# episodes completed so far: 489
+# successes: 148 (30.3%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 40...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=490--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 490
+# successes: 148 (30.2%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 41...
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=491--success=True--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: True
+# episodes completed so far: 491
+# successes: 149 (30.3%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 42...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=492--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 492
+# successes: 149 (30.3%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 43...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=493--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 493
+# successes: 149 (30.2%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 44...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=494--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 494
+# successes: 149 (30.2%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 45...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=495--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 495
+# successes: 149 (30.1%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 46...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=496--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 496
+# successes: 149 (30.0%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 47...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=497--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 497
+# successes: 149 (30.0%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 48...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=498--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 498
+# successes: 149 (29.9%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 49...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=499--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 499
+# successes: 149 (29.9%)
+
+Task: put the yellow and white mug in the microwave and close it
+Starting episode 50...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_10_15/2025_10_15-17_21_32--openvla_oft--episode=500--success=False--task=put_the_yellow_and_white_mug_in_the_microwave_and_.mp4
+Success: False
+# episodes completed so far: 500
+# successes: 149 (29.8%)
+Current task success rate: 0.18
+Current total success rate: 0.298

@@ -1,0 +1,2104 @@
+Task suite: libero_spatial
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 101 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=1--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 1
+# successes: 1 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 102 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=2--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 2
+# successes: 2 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 103 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=3--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 3
+# successes: 3 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 104 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=4--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 4
+# successes: 4 (100.0%)
+Current task success rate: 1.0
+Current total success rate: 1.0
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 105 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=5--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 5
+# successes: 4 (80.0%)
+Current task success rate: 0.0
+Current total success rate: 0.8
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 106 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=6--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 6
+# successes: 5 (83.3%)
+Current task success rate: 1.0
+Current total success rate: 0.8333333333333334
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 107 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=7--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 7
+# successes: 5 (71.4%)
+Current task success rate: 0.0
+Current total success rate: 0.7142857142857143
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 108 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=8--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 8
+# successes: 6 (75.0%)
+Current task success rate: 1.0
+Current total success rate: 0.75
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 109 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=9--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 9
+# successes: 7 (77.8%)
+Current task success rate: 1.0
+Current total success rate: 0.7777777777777778
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 110 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=10--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 10
+# successes: 7 (70.0%)
+Current task success rate: 0.0
+Current total success rate: 0.7
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 100 2 2 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=11--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 11
+# successes: 8 (72.7%)
+Current task success rate: 1.0
+Current total success rate: 0.7272727272727273
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 100 2 4 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=12--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 12
+# successes: 9 (75.0%)
+Current task success rate: 1.0
+Current total success rate: 0.75
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 100 2 6 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=13--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 13
+# successes: 9 (69.2%)
+Current task success rate: 0.0
+Current total success rate: 0.6923076923076923
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 100 2 8 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=14--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 14
+# successes: 10 (71.4%)
+Current task success rate: 1.0
+Current total success rate: 0.7142857142857143
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 100 2 10 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=15--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 15
+# successes: 11 (73.3%)
+Current task success rate: 1.0
+Current total success rate: 0.7333333333333333
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 100 2 350 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=16--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 16
+# successes: 11 (68.8%)
+Current task success rate: 0.0
+Current total success rate: 0.6875
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 100 2 352 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=17--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 17
+# successes: 11 (64.7%)
+Current task success rate: 0.0
+Current total success rate: 0.6470588235294118
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 100 2 354 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=18--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 18
+# successes: 11 (61.1%)
+Current task success rate: 0.0
+Current total success rate: 0.6111111111111112
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 100 2 356 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=19--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 19
+# successes: 12 (63.2%)
+Current task success rate: 1.0
+Current total success rate: 0.631578947368421
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 0 0 100 2 358 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=20--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 20
+# successes: 13 (65.0%)
+Current task success rate: 1.0
+Current total success rate: 0.65
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 1 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=21--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 21
+# successes: 14 (66.7%)
+Current task success rate: 1.0
+Current total success rate: 0.6666666666666666
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 1 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=22--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 22
+# successes: 14 (63.6%)
+Current task success rate: 0.0
+Current total success rate: 0.6363636363636364
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 2 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=23--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 23
+# successes: 15 (65.2%)
+Current task success rate: 1.0
+Current total success rate: 0.6521739130434783
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 2 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=24--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 24
+# successes: 15 (62.5%)
+Current task success rate: 0.0
+Current total success rate: 0.625
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 3 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=25--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 25
+# successes: 16 (64.0%)
+Current task success rate: 1.0
+Current total success rate: 0.64
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 3 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=26--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 26
+# successes: 16 (61.5%)
+Current task success rate: 0.0
+Current total success rate: 0.6153846153846154
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 4 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=27--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 27
+# successes: 17 (63.0%)
+Current task success rate: 1.0
+Current total success rate: 0.6296296296296297
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 4 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=28--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 28
+# successes: 17 (60.7%)
+Current task success rate: 0.0
+Current total success rate: 0.6071428571428571
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 5 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=29--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 29
+# successes: 18 (62.1%)
+Current task success rate: 1.0
+Current total success rate: 0.6206896551724138
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 5 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=30--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 30
+# successes: 18 (60.0%)
+Current task success rate: 0.0
+Current total success rate: 0.6
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 6 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=31--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 31
+# successes: 19 (61.3%)
+Current task success rate: 1.0
+Current total success rate: 0.6129032258064516
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 6 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=32--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 32
+# successes: 19 (59.4%)
+Current task success rate: 0.0
+Current total success rate: 0.59375
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 7 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=33--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 33
+# successes: 20 (60.6%)
+Current task success rate: 1.0
+Current total success rate: 0.6060606060606061
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 7 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=34--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 34
+# successes: 20 (58.8%)
+Current task success rate: 0.0
+Current total success rate: 0.5882352941176471
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 8 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=35--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 35
+# successes: 21 (60.0%)
+Current task success rate: 1.0
+Current total success rate: 0.6
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 8 15 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=36--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 36
+# successes: 22 (61.1%)
+Current task success rate: 1.0
+Current total success rate: 0.6111111111111112
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 9 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=37--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 37
+# successes: 23 (62.2%)
+Current task success rate: 1.0
+Current total success rate: 0.6216216216216216
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 9 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=38--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 38
+# successes: 23 (60.5%)
+Current task success rate: 0.0
+Current total success rate: 0.6052631578947368
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 10 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=39--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 39
+# successes: 24 (61.5%)
+Current task success rate: 1.0
+Current total success rate: 0.6153846153846154
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 10 15 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=40--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 40
+# successes: 25 (62.5%)
+Current task success rate: 1.0
+Current total success rate: 0.625
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 11 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=41--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 41
+# successes: 26 (63.4%)
+Current task success rate: 1.0
+Current total success rate: 0.6341463414634146
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 11 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=42--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 42
+# successes: 26 (61.9%)
+Current task success rate: 0.0
+Current total success rate: 0.6190476190476191
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 12 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=43--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 43
+# successes: 27 (62.8%)
+Current task success rate: 1.0
+Current total success rate: 0.627906976744186
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 12 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=44--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 44
+# successes: 27 (61.4%)
+Current task success rate: 0.0
+Current total success rate: 0.6136363636363636
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 13 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=45--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 45
+# successes: 28 (62.2%)
+Current task success rate: 1.0
+Current total success rate: 0.6222222222222222
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 13 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=46--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 46
+# successes: 28 (60.9%)
+Current task success rate: 0.0
+Current total success rate: 0.6086956521739131
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 14 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=47--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 47
+# successes: 29 (61.7%)
+Current task success rate: 1.0
+Current total success rate: 0.6170212765957447
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 14 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=48--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 48
+# successes: 29 (60.4%)
+Current task success rate: 0.0
+Current total success rate: 0.6041666666666666
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 15 0 100 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=49--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: True
+# episodes completed so far: 49
+# successes: 30 (61.2%)
+Current task success rate: 1.0
+Current total success rate: 0.6122448979591837
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate view 15 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=50--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 50
+# successes: 30 (60.0%)
+Current task success rate: 0.0
+Current total success rate: 0.6
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 111 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=51--success=True--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: True
+# episodes completed so far: 51
+# successes: 31 (60.8%)
+Current task success rate: 1.0
+Current total success rate: 0.6078431372549019
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 112 0 0 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=52--success=True--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: True
+# episodes completed so far: 52
+# successes: 32 (61.5%)
+Current task success rate: 1.0
+Current total success rate: 0.6153846153846154
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 113 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=53--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 53
+# successes: 32 (60.4%)
+Current task success rate: 0.0
+Current total success rate: 0.6037735849056604
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 114 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=54--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 54
+# successes: 32 (59.3%)
+Current task success rate: 0.0
+Current total success rate: 0.5925925925925926
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 115 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=55--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 55
+# successes: 32 (58.2%)
+Current task success rate: 0.0
+Current total success rate: 0.5818181818181818
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 116 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=56--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 56
+# successes: 32 (57.1%)
+Current task success rate: 0.0
+Current total success rate: 0.5714285714285714
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 117 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=57--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 57
+# successes: 32 (56.1%)
+Current task success rate: 0.0
+Current total success rate: 0.5614035087719298
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 118 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=58--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 58
+# successes: 32 (55.2%)
+Current task success rate: 0.0
+Current total success rate: 0.5517241379310345
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 119 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=59--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 59
+# successes: 32 (54.2%)
+Current task success rate: 0.0
+Current total success rate: 0.5423728813559322
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 120 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=60--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 60
+# successes: 32 (53.3%)
+Current task success rate: 0.0
+Current total success rate: 0.5333333333333333
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 100 4 2 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=61--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 61
+# successes: 32 (52.5%)
+Current task success rate: 0.0
+Current total success rate: 0.5245901639344263
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 100 4 4 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=62--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 62
+# successes: 32 (51.6%)
+Current task success rate: 0.0
+Current total success rate: 0.5161290322580645
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 100 4 6 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=63--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 63
+# successes: 32 (50.8%)
+Current task success rate: 0.0
+Current total success rate: 0.5079365079365079
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 100 4 8 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=64--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 64
+# successes: 32 (50.0%)
+Current task success rate: 0.0
+Current total success rate: 0.5
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 100 4 10 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=65--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 65
+# successes: 32 (49.2%)
+Current task success rate: 0.0
+Current total success rate: 0.49230769230769234
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 100 4 350 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=66--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 66
+# successes: 32 (48.5%)
+Current task success rate: 0.0
+Current total success rate: 0.48484848484848486
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 100 4 352 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=67--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 67
+# successes: 32 (47.8%)
+Current task success rate: 0.0
+Current total success rate: 0.47761194029850745
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 100 4 354 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=68--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 68
+# successes: 32 (47.1%)
+Current task success rate: 0.0
+Current total success rate: 0.47058823529411764
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 100 4 356 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=69--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 69
+# successes: 32 (46.4%)
+Current task success rate: 0.0
+Current total success rate: 0.463768115942029
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 0 0 100 4 358 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=70--success=True--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: True
+# episodes completed so far: 70
+# successes: 33 (47.1%)
+Current task success rate: 1.0
+Current total success rate: 0.4714285714285714
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 16 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=71--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 71
+# successes: 33 (46.5%)
+Current task success rate: 0.0
+Current total success rate: 0.4647887323943662
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 16 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=72--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 72
+# successes: 33 (45.8%)
+Current task success rate: 0.0
+Current total success rate: 0.4583333333333333
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 17 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=73--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 73
+# successes: 33 (45.2%)
+Current task success rate: 0.0
+Current total success rate: 0.4520547945205479
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 17 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=74--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 74
+# successes: 33 (44.6%)
+Current task success rate: 0.0
+Current total success rate: 0.44594594594594594
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 18 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=75--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 75
+# successes: 33 (44.0%)
+Current task success rate: 0.0
+Current total success rate: 0.44
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 18 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=76--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 76
+# successes: 33 (43.4%)
+Current task success rate: 0.0
+Current total success rate: 0.4342105263157895
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 19 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=77--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 77
+# successes: 33 (42.9%)
+Current task success rate: 0.0
+Current total success rate: 0.42857142857142855
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 19 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=78--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 78
+# successes: 33 (42.3%)
+Current task success rate: 0.0
+Current total success rate: 0.4230769230769231
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 20 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=79--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 79
+# successes: 33 (41.8%)
+Current task success rate: 0.0
+Current total success rate: 0.4177215189873418
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 20 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=80--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 80
+# successes: 33 (41.2%)
+Current task success rate: 0.0
+Current total success rate: 0.4125
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 21 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=81--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 81
+# successes: 33 (40.7%)
+Current task success rate: 0.0
+Current total success rate: 0.4074074074074074
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 21 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=82--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 82
+# successes: 33 (40.2%)
+Current task success rate: 0.0
+Current total success rate: 0.4024390243902439
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 22 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=83--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 83
+# successes: 33 (39.8%)
+Current task success rate: 0.0
+Current total success rate: 0.39759036144578314
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 22 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=84--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 84
+# successes: 33 (39.3%)
+Current task success rate: 0.0
+Current total success rate: 0.39285714285714285
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 23 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=85--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 85
+# successes: 33 (38.8%)
+Current task success rate: 0.0
+Current total success rate: 0.38823529411764707
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 23 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=86--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 86
+# successes: 33 (38.4%)
+Current task success rate: 0.0
+Current total success rate: 0.38372093023255816
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 24 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=87--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 87
+# successes: 33 (37.9%)
+Current task success rate: 0.0
+Current total success rate: 0.3793103448275862
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 24 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=88--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 88
+# successes: 33 (37.5%)
+Current task success rate: 0.0
+Current total success rate: 0.375
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 25 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=89--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 89
+# successes: 33 (37.1%)
+Current task success rate: 0.0
+Current total success rate: 0.3707865168539326
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 25 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=90--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 90
+# successes: 33 (36.7%)
+Current task success rate: 0.0
+Current total success rate: 0.36666666666666664
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 26 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=91--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 91
+# successes: 33 (36.3%)
+Current task success rate: 0.0
+Current total success rate: 0.3626373626373626
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 26 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=92--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 92
+# successes: 33 (35.9%)
+Current task success rate: 0.0
+Current total success rate: 0.358695652173913
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 27 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=93--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 93
+# successes: 33 (35.5%)
+Current task success rate: 0.0
+Current total success rate: 0.3548387096774194
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 27 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=94--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 94
+# successes: 33 (35.1%)
+Current task success rate: 0.0
+Current total success rate: 0.35106382978723405
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 28 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=95--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 95
+# successes: 33 (34.7%)
+Current task success rate: 0.0
+Current total success rate: 0.3473684210526316
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 28 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=96--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 96
+# successes: 33 (34.4%)
+Current task success rate: 0.0
+Current total success rate: 0.34375
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 29 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=97--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 97
+# successes: 33 (34.0%)
+Current task success rate: 0.0
+Current total success rate: 0.3402061855670103
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 29 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=98--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 98
+# successes: 33 (33.7%)
+Current task success rate: 0.0
+Current total success rate: 0.336734693877551
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 30 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=99--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 99
+# successes: 33 (33.3%)
+Current task success rate: 0.0
+Current total success rate: 0.3333333333333333
+
+Task: pick up the black bowl next to the ramekin and place it on the plate view 30 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=100--success=False--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4
+Success: False
+# episodes completed so far: 100
+# successes: 33 (33.0%)
+Current task success rate: 0.0
+Current total success rate: 0.33
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 121 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=101--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 101
+# successes: 33 (32.7%)
+Current task success rate: 0.0
+Current total success rate: 0.32673267326732675
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 122 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=102--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 102
+# successes: 33 (32.4%)
+Current task success rate: 0.0
+Current total success rate: 0.3235294117647059
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 123 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=103--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 103
+# successes: 33 (32.0%)
+Current task success rate: 0.0
+Current total success rate: 0.32038834951456313
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 124 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=104--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 104
+# successes: 33 (31.7%)
+Current task success rate: 0.0
+Current total success rate: 0.3173076923076923
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 125 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=105--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 105
+# successes: 33 (31.4%)
+Current task success rate: 0.0
+Current total success rate: 0.3142857142857143
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 126 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=106--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 106
+# successes: 33 (31.1%)
+Current task success rate: 0.0
+Current total success rate: 0.3113207547169811
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 127 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=107--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 107
+# successes: 33 (30.8%)
+Current task success rate: 0.0
+Current total success rate: 0.308411214953271
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 128 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=108--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 108
+# successes: 33 (30.6%)
+Current task success rate: 0.0
+Current total success rate: 0.3055555555555556
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 129 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=109--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 109
+# successes: 33 (30.3%)
+Current task success rate: 0.0
+Current total success rate: 0.30275229357798167
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 130 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=110--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 110
+# successes: 33 (30.0%)
+Current task success rate: 0.0
+Current total success rate: 0.3
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 100 6 2 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=111--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 111
+# successes: 33 (29.7%)
+Current task success rate: 0.0
+Current total success rate: 0.2972972972972973
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 100 6 4 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=112--success=True--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: True
+# episodes completed so far: 112
+# successes: 34 (30.4%)
+Current task success rate: 1.0
+Current total success rate: 0.30357142857142855
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 100 6 6 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=113--success=True--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: True
+# episodes completed so far: 113
+# successes: 35 (31.0%)
+Current task success rate: 1.0
+Current total success rate: 0.30973451327433627
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 100 6 8 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=114--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 114
+# successes: 35 (30.7%)
+Current task success rate: 0.0
+Current total success rate: 0.30701754385964913
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 100 6 10 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=115--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 115
+# successes: 35 (30.4%)
+Current task success rate: 0.0
+Current total success rate: 0.30434782608695654
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 100 6 350 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=116--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 116
+# successes: 35 (30.2%)
+Current task success rate: 0.0
+Current total success rate: 0.3017241379310345
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 100 6 352 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=117--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 117
+# successes: 35 (29.9%)
+Current task success rate: 0.0
+Current total success rate: 0.29914529914529914
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 100 6 354 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=118--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 118
+# successes: 35 (29.7%)
+Current task success rate: 0.0
+Current total success rate: 0.2966101694915254
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 100 6 356 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=119--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 119
+# successes: 35 (29.4%)
+Current task success rate: 0.0
+Current total success rate: 0.29411764705882354
+
+Task: pick up the black bowl from table center and place it on the plate view 0 0 100 6 358 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=120--success=True--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: True
+# episodes completed so far: 120
+# successes: 36 (30.0%)
+Current task success rate: 1.0
+Current total success rate: 0.3
+
+Task: pick up the black bowl from table center and place it on the plate view 31 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=121--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 121
+# successes: 36 (29.8%)
+Current task success rate: 0.0
+Current total success rate: 0.2975206611570248
+
+Task: pick up the black bowl from table center and place it on the plate view 31 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=122--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 122
+# successes: 36 (29.5%)
+Current task success rate: 0.0
+Current total success rate: 0.29508196721311475
+
+Task: pick up the black bowl from table center and place it on the plate view 32 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=123--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 123
+# successes: 36 (29.3%)
+Current task success rate: 0.0
+Current total success rate: 0.2926829268292683
+
+Task: pick up the black bowl from table center and place it on the plate view 32 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=124--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 124
+# successes: 36 (29.0%)
+Current task success rate: 0.0
+Current total success rate: 0.2903225806451613
+
+Task: pick up the black bowl from table center and place it on the plate view 33 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=125--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 125
+# successes: 36 (28.8%)
+Current task success rate: 0.0
+Current total success rate: 0.288
+
+Task: pick up the black bowl from table center and place it on the plate view 33 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=126--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 126
+# successes: 36 (28.6%)
+Current task success rate: 0.0
+Current total success rate: 0.2857142857142857
+
+Task: pick up the black bowl from table center and place it on the plate view 34 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=127--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 127
+# successes: 36 (28.3%)
+Current task success rate: 0.0
+Current total success rate: 0.28346456692913385
+
+Task: pick up the black bowl from table center and place it on the plate view 34 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=128--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 128
+# successes: 36 (28.1%)
+Current task success rate: 0.0
+Current total success rate: 0.28125
+
+Task: pick up the black bowl from table center and place it on the plate view 35 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=129--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 129
+# successes: 36 (27.9%)
+Current task success rate: 0.0
+Current total success rate: 0.27906976744186046
+
+Task: pick up the black bowl from table center and place it on the plate view 35 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=130--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 130
+# successes: 36 (27.7%)
+Current task success rate: 0.0
+Current total success rate: 0.27692307692307694
+
+Task: pick up the black bowl from table center and place it on the plate view 36 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=131--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 131
+# successes: 36 (27.5%)
+Current task success rate: 0.0
+Current total success rate: 0.2748091603053435
+
+Task: pick up the black bowl from table center and place it on the plate view 36 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=132--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 132
+# successes: 36 (27.3%)
+Current task success rate: 0.0
+Current total success rate: 0.2727272727272727
+
+Task: pick up the black bowl from table center and place it on the plate view 37 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=133--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 133
+# successes: 36 (27.1%)
+Current task success rate: 0.0
+Current total success rate: 0.2706766917293233
+
+Task: pick up the black bowl from table center and place it on the plate view 37 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=134--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 134
+# successes: 36 (26.9%)
+Current task success rate: 0.0
+Current total success rate: 0.26865671641791045
+
+Task: pick up the black bowl from table center and place it on the plate view 38 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=135--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 135
+# successes: 36 (26.7%)
+Current task success rate: 0.0
+Current total success rate: 0.26666666666666666
+
+Task: pick up the black bowl from table center and place it on the plate view 38 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=136--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 136
+# successes: 36 (26.5%)
+Current task success rate: 0.0
+Current total success rate: 0.2647058823529412
+
+Task: pick up the black bowl from table center and place it on the plate view 39 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=137--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 137
+# successes: 36 (26.3%)
+Current task success rate: 0.0
+Current total success rate: 0.26277372262773724
+
+Task: pick up the black bowl from table center and place it on the plate view 39 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=138--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 138
+# successes: 36 (26.1%)
+Current task success rate: 0.0
+Current total success rate: 0.2608695652173913
+
+Task: pick up the black bowl from table center and place it on the plate view 40 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=139--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 139
+# successes: 36 (25.9%)
+Current task success rate: 0.0
+Current total success rate: 0.2589928057553957
+
+Task: pick up the black bowl from table center and place it on the plate view 40 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=140--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 140
+# successes: 36 (25.7%)
+Current task success rate: 0.0
+Current total success rate: 0.2571428571428571
+
+Task: pick up the black bowl from table center and place it on the plate view 41 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=141--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 141
+# successes: 36 (25.5%)
+Current task success rate: 0.0
+Current total success rate: 0.2553191489361702
+
+Task: pick up the black bowl from table center and place it on the plate view 41 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=142--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 142
+# successes: 36 (25.4%)
+Current task success rate: 0.0
+Current total success rate: 0.2535211267605634
+
+Task: pick up the black bowl from table center and place it on the plate view 42 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=143--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 143
+# successes: 36 (25.2%)
+Current task success rate: 0.0
+Current total success rate: 0.2517482517482518
+
+Task: pick up the black bowl from table center and place it on the plate view 42 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=144--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 144
+# successes: 36 (25.0%)
+Current task success rate: 0.0
+Current total success rate: 0.25
+
+Task: pick up the black bowl from table center and place it on the plate view 43 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=145--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 145
+# successes: 36 (24.8%)
+Current task success rate: 0.0
+Current total success rate: 0.2482758620689655
+
+Task: pick up the black bowl from table center and place it on the plate view 43 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=146--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 146
+# successes: 36 (24.7%)
+Current task success rate: 0.0
+Current total success rate: 0.2465753424657534
+
+Task: pick up the black bowl from table center and place it on the plate view 44 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=147--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 147
+# successes: 36 (24.5%)
+Current task success rate: 0.0
+Current total success rate: 0.24489795918367346
+
+Task: pick up the black bowl from table center and place it on the plate view 44 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=148--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 148
+# successes: 36 (24.3%)
+Current task success rate: 0.0
+Current total success rate: 0.24324324324324326
+
+Task: pick up the black bowl from table center and place it on the plate view 45 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=149--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 149
+# successes: 36 (24.2%)
+Current task success rate: 0.0
+Current total success rate: 0.24161073825503357
+
+Task: pick up the black bowl from table center and place it on the plate view 45 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=150--success=False--task=pick_up_the_black_bowl_from_table_center_and_place.mp4
+Success: False
+# episodes completed so far: 150
+# successes: 36 (24.0%)
+Current task success rate: 0.0
+Current total success rate: 0.24
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 131 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=151--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 151
+# successes: 36 (23.8%)
+Current task success rate: 0.0
+Current total success rate: 0.23841059602649006
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 132 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=152--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 152
+# successes: 36 (23.7%)
+Current task success rate: 0.0
+Current total success rate: 0.23684210526315788
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 133 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=153--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 153
+# successes: 36 (23.5%)
+Current task success rate: 0.0
+Current total success rate: 0.23529411764705882
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 134 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=154--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 154
+# successes: 36 (23.4%)
+Current task success rate: 0.0
+Current total success rate: 0.23376623376623376
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 135 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=155--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 155
+# successes: 36 (23.2%)
+Current task success rate: 0.0
+Current total success rate: 0.23225806451612904
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 136 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=156--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 156
+# successes: 36 (23.1%)
+Current task success rate: 0.0
+Current total success rate: 0.23076923076923078
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 137 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=157--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 157
+# successes: 36 (22.9%)
+Current task success rate: 0.0
+Current total success rate: 0.22929936305732485
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 138 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=158--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 158
+# successes: 36 (22.8%)
+Current task success rate: 0.0
+Current total success rate: 0.22784810126582278
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 139 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=159--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 159
+# successes: 36 (22.6%)
+Current task success rate: 0.0
+Current total success rate: 0.22641509433962265
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 140 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=160--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 160
+# successes: 36 (22.5%)
+Current task success rate: 0.0
+Current total success rate: 0.225
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 100 8 2 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=161--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 161
+# successes: 36 (22.4%)
+Current task success rate: 0.0
+Current total success rate: 0.2236024844720497
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 100 8 4 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=162--success=True--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: True
+# episodes completed so far: 162
+# successes: 37 (22.8%)
+Current task success rate: 1.0
+Current total success rate: 0.22839506172839505
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 100 8 6 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=163--success=True--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: True
+# episodes completed so far: 163
+# successes: 38 (23.3%)
+Current task success rate: 1.0
+Current total success rate: 0.2331288343558282
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 100 8 8 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=164--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 164
+# successes: 38 (23.2%)
+Current task success rate: 0.0
+Current total success rate: 0.23170731707317074
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 100 8 10 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=165--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 165
+# successes: 38 (23.0%)
+Current task success rate: 0.0
+Current total success rate: 0.23030303030303031
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 100 8 350 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=166--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 166
+# successes: 38 (22.9%)
+Current task success rate: 0.0
+Current total success rate: 0.2289156626506024
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 100 8 352 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=167--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 167
+# successes: 38 (22.8%)
+Current task success rate: 0.0
+Current total success rate: 0.2275449101796407
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 100 8 354 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=168--success=True--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: True
+# episodes completed so far: 168
+# successes: 39 (23.2%)
+Current task success rate: 1.0
+Current total success rate: 0.23214285714285715
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 100 8 356 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=169--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 169
+# successes: 39 (23.1%)
+Current task success rate: 0.0
+Current total success rate: 0.23076923076923078
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 0 0 100 8 358 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=170--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 170
+# successes: 39 (22.9%)
+Current task success rate: 0.0
+Current total success rate: 0.22941176470588234
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 46 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=171--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 171
+# successes: 39 (22.8%)
+Current task success rate: 0.0
+Current total success rate: 0.22807017543859648
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 46 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=172--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 172
+# successes: 39 (22.7%)
+Current task success rate: 0.0
+Current total success rate: 0.22674418604651161
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 47 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=173--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 173
+# successes: 39 (22.5%)
+Current task success rate: 0.0
+Current total success rate: 0.2254335260115607
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 47 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=174--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 174
+# successes: 39 (22.4%)
+Current task success rate: 0.0
+Current total success rate: 0.22413793103448276
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 48 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=175--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 175
+# successes: 39 (22.3%)
+Current task success rate: 0.0
+Current total success rate: 0.22285714285714286
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 48 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=176--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 176
+# successes: 39 (22.2%)
+Current task success rate: 0.0
+Current total success rate: 0.2215909090909091
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 49 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=177--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 177
+# successes: 39 (22.0%)
+Current task success rate: 0.0
+Current total success rate: 0.22033898305084745
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 49 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=178--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 178
+# successes: 39 (21.9%)
+Current task success rate: 0.0
+Current total success rate: 0.21910112359550563
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 50 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=179--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 179
+# successes: 39 (21.8%)
+Current task success rate: 0.0
+Current total success rate: 0.21787709497206703
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 50 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=180--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 180
+# successes: 39 (21.7%)
+Current task success rate: 0.0
+Current total success rate: 0.21666666666666667
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 51 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=181--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 181
+# successes: 39 (21.5%)
+Current task success rate: 0.0
+Current total success rate: 0.2154696132596685
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 51 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=182--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 182
+# successes: 39 (21.4%)
+Current task success rate: 0.0
+Current total success rate: 0.21428571428571427
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 52 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=183--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 183
+# successes: 39 (21.3%)
+Current task success rate: 0.0
+Current total success rate: 0.21311475409836064
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 52 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=184--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 184
+# successes: 39 (21.2%)
+Current task success rate: 0.0
+Current total success rate: 0.21195652173913043
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 53 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=185--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 185
+# successes: 39 (21.1%)
+Current task success rate: 0.0
+Current total success rate: 0.21081081081081082
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 53 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=186--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 186
+# successes: 39 (21.0%)
+Current task success rate: 0.0
+Current total success rate: 0.20967741935483872
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 54 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=187--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 187
+# successes: 39 (20.9%)
+Current task success rate: 0.0
+Current total success rate: 0.20855614973262032
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 54 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=188--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 188
+# successes: 39 (20.7%)
+Current task success rate: 0.0
+Current total success rate: 0.2074468085106383
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 55 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=189--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 189
+# successes: 39 (20.6%)
+Current task success rate: 0.0
+Current total success rate: 0.20634920634920634
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 55 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=190--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 190
+# successes: 39 (20.5%)
+Current task success rate: 0.0
+Current total success rate: 0.20526315789473684
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 56 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=191--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 191
+# successes: 39 (20.4%)
+Current task success rate: 0.0
+Current total success rate: 0.20418848167539266
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 56 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=192--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 192
+# successes: 39 (20.3%)
+Current task success rate: 0.0
+Current total success rate: 0.203125
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 57 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=193--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 193
+# successes: 39 (20.2%)
+Current task success rate: 0.0
+Current total success rate: 0.20207253886010362
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 57 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=194--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 194
+# successes: 39 (20.1%)
+Current task success rate: 0.0
+Current total success rate: 0.20103092783505155
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 58 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=195--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 195
+# successes: 39 (20.0%)
+Current task success rate: 0.0
+Current total success rate: 0.2
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 58 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=196--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 196
+# successes: 39 (19.9%)
+Current task success rate: 0.0
+Current total success rate: 0.1989795918367347
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 59 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=197--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 197
+# successes: 39 (19.8%)
+Current task success rate: 0.0
+Current total success rate: 0.19796954314720813
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 59 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=198--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 198
+# successes: 39 (19.7%)
+Current task success rate: 0.0
+Current total success rate: 0.19696969696969696
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 60 0 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=199--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 199
+# successes: 39 (19.6%)
+Current task success rate: 0.0
+Current total success rate: 0.19597989949748743
+
+Task: pick up the black bowl on the cookie box and place it on the plate view 60 15 100 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=200--success=False--task=pick_up_the_black_bowl_on_the_cookie_box_and_place.mp4
+Success: False
+# episodes completed so far: 200
+# successes: 39 (19.5%)
+Current task success rate: 0.0
+Current total success rate: 0.195
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 141 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=201--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 201
+# successes: 39 (19.4%)
+Current task success rate: 0.0
+Current total success rate: 0.19402985074626866
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 142 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=202--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 202
+# successes: 39 (19.3%)
+Current task success rate: 0.0
+Current total success rate: 0.19306930693069307
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 143 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=203--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 203
+# successes: 39 (19.2%)
+Current task success rate: 0.0
+Current total success rate: 0.1921182266009852
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 144 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=204--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 204
+# successes: 39 (19.1%)
+Current task success rate: 0.0
+Current total success rate: 0.19117647058823528
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 145 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=205--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 205
+# successes: 39 (19.0%)
+Current task success rate: 0.0
+Current total success rate: 0.1902439024390244
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 146 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=206--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 206
+# successes: 39 (18.9%)
+Current task success rate: 0.0
+Current total success rate: 0.18932038834951456
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 147 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=207--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 207
+# successes: 39 (18.8%)
+Current task success rate: 0.0
+Current total success rate: 0.18840579710144928
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 148 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=208--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 208
+# successes: 39 (18.8%)
+Current task success rate: 0.0
+Current total success rate: 0.1875
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 149 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=209--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 209
+# successes: 39 (18.7%)
+Current task success rate: 0.0
+Current total success rate: 0.18660287081339713
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 150 0 0 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=210--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 210
+# successes: 39 (18.6%)
+Current task success rate: 0.0
+Current total success rate: 0.18571428571428572
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 100 10 2 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=211--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 211
+# successes: 39 (18.5%)
+Current task success rate: 0.0
+Current total success rate: 0.1848341232227488
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 100 10 4 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=212--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 212
+# successes: 39 (18.4%)
+Current task success rate: 0.0
+Current total success rate: 0.18396226415094338
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 100 10 6 initstate 0
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=213--success=False--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: False
+# episodes completed so far: 213
+# successes: 39 (18.3%)
+Current task success rate: 0.0
+Current total success rate: 0.18309859154929578
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 100 10 8 initstate 0
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_11/2025_09_11-15_00_12--openvla_oft--episode=214--success=True--task=pick_up_the_black_bowl_in_the_top_drawer_of_the_wo.mp4
+Success: True
+# episodes completed so far: 214
+# successes: 40 (18.7%)
+Current task success rate: 1.0
+Current total success rate: 0.18691588785046728
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate view 0 0 100 10 10 initstate 0
+Starting episode 1...

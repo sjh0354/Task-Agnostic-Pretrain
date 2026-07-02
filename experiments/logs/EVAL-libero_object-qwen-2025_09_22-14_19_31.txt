@@ -1,0 +1,494 @@
+Task suite: libero_object
+
+Task: pick the butter and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=1--success=False--task=pick_the_butter_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 1
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0
+
+Task: pick the cream cheese and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=2--success=False--task=pick_the_cream_cheese_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 2
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0
+
+Task: pick the tomato sauce and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=3--success=False--task=pick_the_tomato_sauce_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 3
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0
+
+Task: pick the salad dressing and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=4--success=True--task=pick_the_salad_dressing_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 4
+# successes: 1 (25.0%)
+Current task success rate: 1.0
+Current total success rate: 0.25
+
+Task: pick the milk and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=5--success=False--task=pick_the_milk_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 5
+# successes: 1 (20.0%)
+Current task success rate: 0.0
+Current total success rate: 0.2
+
+Task: pick the salad dressing and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=6--success=False--task=pick_the_salad_dressing_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 6
+# successes: 1 (16.7%)
+Current task success rate: 0.0
+Current total success rate: 0.16666666666666666
+
+Task: pick the chocolate pudding and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=7--success=True--task=pick_the_chocolate_pudding_and_place_it_in_the_bas.mp4
+Success: True
+# episodes completed so far: 7
+# successes: 2 (28.6%)
+Current task success rate: 1.0
+Current total success rate: 0.2857142857142857
+
+Task: pick the cream cheese and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=8--success=False--task=pick_the_cream_cheese_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 8
+# successes: 2 (25.0%)
+Current task success rate: 0.0
+Current total success rate: 0.25
+
+Task: pick the alphabet soup and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=9--success=False--task=pick_the_alphabet_soup_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 9
+# successes: 2 (22.2%)
+Current task success rate: 0.0
+Current total success rate: 0.2222222222222222
+
+Task: pick the ketchup and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=10--success=False--task=pick_the_ketchup_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 10
+# successes: 2 (20.0%)
+Current task success rate: 0.0
+Current total success rate: 0.2
+
+Task: pick the tomato sauce and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=11--success=True--task=pick_the_tomato_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 11
+# successes: 3 (27.3%)
+Current task success rate: 1.0
+Current total success rate: 0.2727272727272727
+
+Task: pick the chocolate pudding and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=12--success=False--task=pick_the_chocolate_pudding_and_place_it_in_the_bas.mp4
+Success: False
+# episodes completed so far: 12
+# successes: 3 (25.0%)
+Current task success rate: 0.0
+Current total success rate: 0.25
+
+Task: pick the orange juice and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=13--success=False--task=pick_the_orange_juice_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 13
+# successes: 3 (23.1%)
+Current task success rate: 0.0
+Current total success rate: 0.23076923076923078
+
+Task: pick the ketchup and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=14--success=False--task=pick_the_ketchup_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 14
+# successes: 3 (21.4%)
+Current task success rate: 0.0
+Current total success rate: 0.21428571428571427
+
+Task: pick the bbq sauce and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=15--success=False--task=pick_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 15
+# successes: 3 (20.0%)
+Current task success rate: 0.0
+Current total success rate: 0.2
+
+Task: pick the salad dressing and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=16--success=False--task=pick_the_salad_dressing_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 16
+# successes: 3 (18.8%)
+Current task success rate: 0.0
+Current total success rate: 0.1875
+
+Task: pick the ketchup and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=17--success=False--task=pick_the_ketchup_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 17
+# successes: 3 (17.6%)
+Current task success rate: 0.0
+Current total success rate: 0.17647058823529413
+
+Task: pick the orange juice and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=18--success=False--task=pick_the_orange_juice_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 18
+# successes: 3 (16.7%)
+Current task success rate: 0.0
+Current total success rate: 0.16666666666666666
+
+Task: pick the bbq sauce and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=19--success=False--task=pick_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 19
+# successes: 3 (15.8%)
+Current task success rate: 0.0
+Current total success rate: 0.15789473684210525
+
+Task: pick the alphabet soup and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=20--success=False--task=pick_the_alphabet_soup_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 20
+# successes: 3 (15.0%)
+Current task success rate: 0.0
+Current total success rate: 0.15
+
+Task: pick the milk and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=21--success=False--task=pick_the_milk_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 21
+# successes: 3 (14.3%)
+Current task success rate: 0.0
+Current total success rate: 0.14285714285714285
+
+Task: pick the tomato sauce and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=22--success=False--task=pick_the_tomato_sauce_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 22
+# successes: 3 (13.6%)
+Current task success rate: 0.0
+Current total success rate: 0.13636363636363635
+
+Task: pick the alphabet soup and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=23--success=True--task=pick_the_alphabet_soup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 23
+# successes: 4 (17.4%)
+Current task success rate: 1.0
+Current total success rate: 0.17391304347826086
+
+Task: pick the butter and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=24--success=False--task=pick_the_butter_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 24
+# successes: 4 (16.7%)
+Current task success rate: 0.0
+Current total success rate: 0.16666666666666666
+
+Task: pick the orange juice and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=25--success=False--task=pick_the_orange_juice_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 25
+# successes: 4 (16.0%)
+Current task success rate: 0.0
+Current total success rate: 0.16
+
+Task: pick the bbq sauce and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=26--success=True--task=pick_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 26
+# successes: 5 (19.2%)
+Current task success rate: 1.0
+Current total success rate: 0.19230769230769232
+
+Task: pick the alphabet soup and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=27--success=False--task=pick_the_alphabet_soup_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 27
+# successes: 5 (18.5%)
+Current task success rate: 0.0
+Current total success rate: 0.18518518518518517
+
+Task: pick the cream cheese and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=28--success=False--task=pick_the_cream_cheese_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 28
+# successes: 5 (17.9%)
+Current task success rate: 0.0
+Current total success rate: 0.17857142857142858
+
+Task: pick the milk and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=29--success=False--task=pick_the_milk_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 29
+# successes: 5 (17.2%)
+Current task success rate: 0.0
+Current total success rate: 0.1724137931034483
+
+Task: pick the salad dressing and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=30--success=False--task=pick_the_salad_dressing_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 30
+# successes: 5 (16.7%)
+Current task success rate: 0.0
+Current total success rate: 0.16666666666666666
+
+Task: pick the butter and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=31--success=False--task=pick_the_butter_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 31
+# successes: 5 (16.1%)
+Current task success rate: 0.0
+Current total success rate: 0.16129032258064516
+
+Task: pick the tomato sauce and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=32--success=False--task=pick_the_tomato_sauce_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 32
+# successes: 5 (15.6%)
+Current task success rate: 0.0
+Current total success rate: 0.15625
+
+Task: pick the cream cheese and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=33--success=False--task=pick_the_cream_cheese_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 33
+# successes: 5 (15.2%)
+Current task success rate: 0.0
+Current total success rate: 0.15151515151515152
+
+Task: pick the orange juice and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=34--success=False--task=pick_the_orange_juice_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 34
+# successes: 5 (14.7%)
+Current task success rate: 0.0
+Current total success rate: 0.14705882352941177
+
+Task: pick the chocolate pudding and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=35--success=False--task=pick_the_chocolate_pudding_and_place_it_in_the_bas.mp4
+Success: False
+# episodes completed so far: 35
+# successes: 5 (14.3%)
+Current task success rate: 0.0
+Current total success rate: 0.14285714285714285
+
+Task: pick the ketchup and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=36--success=False--task=pick_the_ketchup_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 36
+# successes: 5 (13.9%)
+Current task success rate: 0.0
+Current total success rate: 0.1388888888888889
+
+Task: pick the chocolate pudding and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=37--success=False--task=pick_the_chocolate_pudding_and_place_it_in_the_bas.mp4
+Success: False
+# episodes completed so far: 37
+# successes: 5 (13.5%)
+Current task success rate: 0.0
+Current total success rate: 0.13513513513513514
+
+Task: pick the salad dressing and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=38--success=False--task=pick_the_salad_dressing_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 38
+# successes: 5 (13.2%)
+Current task success rate: 0.0
+Current total success rate: 0.13157894736842105
+
+Task: pick the bbq sauce and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=39--success=False--task=pick_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 39
+# successes: 5 (12.8%)
+Current task success rate: 0.0
+Current total success rate: 0.1282051282051282
+
+Task: pick the butter and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=40--success=False--task=pick_the_butter_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 40
+# successes: 5 (12.5%)
+Current task success rate: 0.0
+Current total success rate: 0.125
+
+Task: pick the cream cheese and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=41--success=False--task=pick_the_cream_cheese_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 41
+# successes: 5 (12.2%)
+Current task success rate: 0.0
+Current total success rate: 0.12195121951219512
+
+Task: pick the alphabet soup and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=42--success=False--task=pick_the_alphabet_soup_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 42
+# successes: 5 (11.9%)
+Current task success rate: 0.0
+Current total success rate: 0.11904761904761904
+
+Task: pick the ketchup and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=43--success=True--task=pick_the_ketchup_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 43
+# successes: 6 (14.0%)
+Current task success rate: 1.0
+Current total success rate: 0.13953488372093023
+
+Task: pick the milk and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=44--success=False--task=pick_the_milk_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 44
+# successes: 6 (13.6%)
+Current task success rate: 0.0
+Current total success rate: 0.13636363636363635
+
+Task: pick the tomato sauce and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=45--success=False--task=pick_the_tomato_sauce_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 45
+# successes: 6 (13.3%)
+Current task success rate: 0.0
+Current total success rate: 0.13333333333333333
+
+Task: pick the milk and place it in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=46--success=True--task=pick_the_milk_and_place_it_in_the_basket.mp4
+Success: True
+# episodes completed so far: 46
+# successes: 7 (15.2%)
+Current task success rate: 1.0
+Current total success rate: 0.15217391304347827
+
+Task: pick the chocolate pudding and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=47--success=False--task=pick_the_chocolate_pudding_and_place_it_in_the_bas.mp4
+Success: False
+# episodes completed so far: 47
+# successes: 7 (14.9%)
+Current task success rate: 0.0
+Current total success rate: 0.14893617021276595
+
+Task: pick the butter and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=48--success=False--task=pick_the_butter_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 48
+# successes: 7 (14.6%)
+Current task success rate: 0.0
+Current total success rate: 0.14583333333333334
+
+Task: pick the bbq sauce and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=49--success=False--task=pick_the_bbq_sauce_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 49
+# successes: 7 (14.3%)
+Current task success rate: 0.0
+Current total success rate: 0.14285714285714285
+
+Task: pick the orange juice and place it in the basket
+Starting episode 1...
+Caught exception: executing action in terminated episode
+Saved rollout MP4 at path ./rollouts/2025_09_22/2025_09_22-14_19_31--openvla_oft--episode=50--success=False--task=pick_the_orange_juice_and_place_it_in_the_basket.mp4
+Success: False
+# episodes completed so far: 50
+# successes: 7 (14.0%)
+Current task success rate: 0.0
+Current total success rate: 0.14
