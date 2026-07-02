@@ -979,12 +979,5 @@ OXE_STANDARDIZATION_TRANSFORMS = {
     "libero_goal_no_noops": libero_dataset_transform,
     "libero_10_no_noops": libero_dataset_transform,
     "libero_10": libero_dataset_transform,
-    "pick_and_place_carrot_1231": pick_and_place_carrot_dataset_transform,
-    "real_random_stage1_0105": pick_and_place_carrot_dataset_transform,
-    "push_pumpkin_0122": libero_dataset_transform,
-    "put_carrot_0116_old": pick_and_place_carrot_dataset_transform,
-    "put_carrot_0116": libero_dataset_transform,
-    "put_carrot_0119": libero_dataset_transform,
-    "put_carrot_0121": libero_dataset_transform,
     "pretrain_0105": libero_dataset_transform,
 }
