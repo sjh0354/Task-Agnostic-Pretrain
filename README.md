@@ -11,7 +11,7 @@ Junhao Shi¹², Siyin Wang¹², Xiaopeng Yu¹, Li Ji¹², Jingjing Gong²†, Xi
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://sjh0354.github.io/task_agnostic_pretrain)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/ARXIV_ID)
 [![OpenReview](https://img.shields.io/badge/OpenReview-PDF-8c1b13.svg)](https://openreview.net/pdf?id=KQiNdlhknK)
-[![HuggingFace](https://img.shields.io/badge/🤗-Models-yellow)](https://huggingface.co/collections/Michael0354/task-agnostic-pretraining)
+[![HuggingFace](https://img.shields.io/badge/🤗-Models-yellow)](https://huggingface.co/collections/Michael0354/task-agnostic-pretrain)
 
 </div>
 
