@@ -2,7 +2,7 @@
 
 # Learning to Move Before Learning to Do: Task-Agnostic Pretraining for VLAs
 
-[Junhao Shi](https://github.com/sjh0354)¹², Siyin Wang¹², Xiaopeng Yu¹, Li Ji¹², Jingjing Gong²†, Xipeng Qiu¹²†
+Junhao Shi¹², Siyin Wang¹², Xiaopeng Yu¹, Li Ji¹², Jingjing Gong²†, Xipeng Qiu¹²†
 
 ¹Fudan University   ²Shanghai Innovation Institute
 
