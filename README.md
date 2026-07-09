@@ -189,7 +189,7 @@ Pretrain the backbone with the self-supervised Inverse Dynamics objective on unl
 cd training
 
 # Usage: bash train_stage1.sh <data_mix> <model_path> [additional_args...]
-bash train_stage1.sh \
+bash task_agnostic_pretrain.sh \
     <your_task_agnostic_data_mix> \
     ../download_models/Qwen2.5-VL-3B-added-action-tokens
 ```
@@ -197,7 +197,7 @@ bash train_stage1.sh \
 Example:
 
 ```bash
-bash train_stage1.sh bridge_task_agnostic ../download_models/Qwen2.5-VL-3B-added-action-tokens
+bash stage2_finetune.sh bridge_task_agnostic ../download_models/Qwen2.5-VL-3B-added-action-tokens
 ```
 
 The resulting Stage 1 checkpoint will be saved under `experiments/logs/`.
